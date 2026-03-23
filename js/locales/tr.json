@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "page_title": "İç Çocuk Testi - Çocukluk Yaralarınızı İyileştirin | DopaBrain",
+    "description": "Hangi çocukluk yarası yetişkin hayatınızı şekillendiriyor? İç çocuk arketipinizi keşfedin: Terk Edilmiş, Eleştirilmiş, Görünmez, Ebeveynleştirilmiş, Aşırı Korunmuş veya Oyuncu. 8 soru, ücretsiz.",
+    "keywords": "iç çocuk testi, iç çocuk anketi, çocukluk yarası testi, iç çocuk iyileştirme, iç çocuk arketipi, çocukluk travması testi, yeniden ebeveynlik anketi, iç çocuk çalışması",
+    "og_title": "İç Çocuk Testi - Çocukluk Yaralarınızı İyileştirin",
+    "og_description": "8 soru iç çocuk arketipinizi ve kişiselleştirilmiş iyileştirme onaylamalarını ortaya çıkarır.",
+    "twitter_title": "İç Çocuk Testi - Çocukluk Yaralarınızı İyileştirin",
+    "twitter_description": "8 soru iç çocuk arketipinizi ortaya çıkarır!"
+  },
+  "app": {
+    "skipLink": "Ana içeriğe atla",
+    "loading": "Yükleniyor..."
+  },
+  "intro": {
+    "title": "İç Çocuk Testi",
+    "subtitle": "Çocukluk Yaralarınızı İyileştirin",
+    "social_proof": "kişi keşfetti",
+    "feature_types": "6 İç Çocuk Tipi",
+    "feature_questions": "8 Senaryo",
+    "feature_metrics": "5 Yara Boyutu",
+    "time_estimate": "Yaklaşık 2 dakika sürer"
+  },
+  "carousel": {
+    "abandonedChild": "Terk Edilmiş Çocuk",
+    "criticizedChild": "Eleştirilmiş Çocuk",
+    "invisibleChild": "Görünmez Çocuk",
+    "parentifiedChild": "Ebeveynleştirilmiş Çocuk",
+    "overprotectedChild": "Aşırı Korunmuş Çocuk",
+    "playfulChild": "Oyuncu Çocuk"
+  },
+  "button": {
+    "start": "İç Çocuğunuzla Tanışın",
+    "retry": "Tekrar Dene",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Bağlantıyı Kopyala"
+  },
+  "question": {
+    "0": "Önemsediğiniz biri uzun süre mesaj atmadığında ilk düşünceniz ne olur?",
+    "0a": "Muhtemelen beni terk edecekler — önce ben ulaşmalıyım",
+    "0b": "Muhtemelen onları üzen bir şey yaptım",
+    "0c": "Sorun değil, zaten rahatsız etmek istemiyorum",
+    "0d": "İyi olup olmadıklarını kontrol etmeliyim — yardıma ihtiyaçları olabilir",
+    "0e": "Kötü bir şey olmuş olmalı — endişeli hissediyorum",
+    "0f": "Muhtemelen meşguller — bu arada eğlenceli bir şey yapacağım",
+
+    "1": "Gerçek bir övgü aldığınızda genellikle:",
+    "1a": "Kuşkulanırım — muhtemelen benden bir şey istiyorlar",
+    "1b": "Hemen daha iyi olmanın yollarını düşünürüm",
+    "1c": "Savuşturrum — 'ah, gerçekten bir şey değildi'",
+    "1d": "Teşekkür ederim ama odak noktası olmaktan rahatsız olurum",
+    "1e": "Bunalmış hissederim ve nasıl yanıt vereceğimi bilemem",
+    "1f": "Sıcak bir şekilde kabul ederim ve gerçekten iyi hissederim",
+
+    "2": "Hiç sorumluluğunuzun olmadığı nadir bir boş günde:",
+    "2a": "Yalnız olmaktan endişeli hissederim ve birine ulaşırım",
+    "2b": "Kendimi geliştirmek veya işleri yetiştirmek için kullanırım",
+    "2c": "Diğerlerine ne yapmak istediklerini sorarım",
+    "2d": "Başkaları için ertelediğim şeyleri yaparım",
+    "2e": "Güvenli ve rahat olan evde kalırım",
+    "2f": "Sadece eğlenmek için spontane ve yaratıcı bir şey yaparım",
+
+    "3": "İş yerinde veya okulda göze çarpan bir hata yaptığınızda:",
+    "3a": "Herkesin beni farklı göreceğinden ve uzaklaşacağından korkarım",
+    "3b": "Kendimi suçlarım ve anı durmadan tekrar oynatırım",
+    "3c": "Küçük olsa bile aşırı özür dilerim",
+    "3d": "Hızlıca düzeltir ve herkesin sorunlarını da çözerim",
+    "3e": "Felç olmuş hisseder ve tekrar denemekten korkarım",
+    "3f": "Gülerim, ondan ders alır ve devam ederim",
+
+    "4": "Yakın ilişkilerde en derin korkun:",
+    "4a": "Terk edilmek veya daha iyi biri tarafından değiştirilmek",
+    "4b": "Diğer kişi için yeterince iyi olmamak",
+    "4c": "Yük olmak veya çok fazla yer kaplamak",
+    "4d": "İnsanları hayal kırıklığına uğratmak veya koruyamamak",
+    "4e": "İncinmek veya ilişkinin güvensiz hissettirmesi",
+    "4f": "Bağlantıdaki neşeyi ve oyunculuğu kaybetmek",
+
+    "5": "Kendi duygusal ihtiyaçlarınızla genellikle nasıl başa çıkarsınız?",
+    "5a": "Karşılamaları için başkalarına bakarım — yalnız olmak korkutucu",
+    "5b": "Devam ederim — ihtiyaçları olmak zayıflık gibi hissettirir",
+    "5c": "Küçümsürüm — diğer insanların ihtiyaçları daha önemli",
+    "5d": "Önce herkese bakarım, sonra belki kendime",
+    "5e": "Sadece kontrollü, öngörülebilir şekillerde karşılarım",
+    "5f": "İhtiyacım olanı dinlerim ve doğal olarak onurlandırırım",
+
+    "6": "Yakın bir ilişkide çatışma ortaya çıktığında:",
+    "6a": "Panik yapar ve gitmelerini önlemek için her şeyi yaparım",
+    "6b": "Benim hatam olduğunu varsayar ve bundan sonra mükemmel olmaya çalışırım",
+    "6c": "Sessizleşir ve barışı korumak için geri çekilirim",
+    "6d": "Arabuluculuk etmeye ve herkes için her şeyi düzeltmeye çalışırım",
+    "6e": "Donup kalır ve güvenliğe çekilmek isterim",
+    "6f": "Dürüstçe ve sakin bir güvenle ele alırım",
+
+    "7": "Gece geç saatlerde sizi en sık ziyaret eden düşünce:",
+    "7a": "Gerçekten sevildiğim mi, yoksa herkes sonunda gidecek mi?",
+    "7b": "Hala yeterli değilim — daha çok çalışmam gerekiyor",
+    "7c": "Gerçek benliğimi gerçekten biri görüyor mu?",
+    "7d": "Herkesin yükünü taşımaktan yoruldum",
+    "7e": "Dünya bunaltıcı ve güvensiz hissettiriyor",
+    "7f": "Hayat bir macera ve her gün büyüyorum"
+  },
+  "analyzing": {
+    "title": "İç çocuğunuz dinleniyor...",
+    "scanning": "Çocukluk kalıpları taranıyor...",
+    "mapping": "Duygusal yaralar haritalandırılıyor...",
+    "integrating": "İç çocuğunuz bulunuyor...",
+    "complete": "İç çocuğunuz konuştu!"
+  },
+  "result": {
+    "your_type": "İç Çocuk Arketipin",
+    "wound_dimensions": "Yara Boyutları",
+    "dimension_scores": "Boyut Puanları",
+    "key_traits": "Temel Kalıplar",
+    "healing_affirmation": "İyileştirme Onaylaması",
+    "percentile": "Sadece insanların {pct}'sinin {type} arketipi var",
+    "moreTests": "Daha Fazlasını Keşfet",
+    "share": "Sonuçlarınızı Paylaşın"
+  },
+  "metric": {
+    "abandonment": "Terk Edilme",
+    "shame": "Utanç",
+    "trust": "Güven",
+    "autonomy": "Özerklik",
+    "healing": "İyileşme"
+  },
+  "type": {
+    "abandonedChild": {
+      "name": "Terk Edilmiş Çocuk",
+      "tagline": "Sevginin sonunda terk edilmek anlamına geldiğini öğrenen bir kalp",
+      "description": "İç çocuğunuz terk edilme yarasını taşıyor. Kayıp, yokluk veya duygusal olarak ulaşılamama deneyimi, sevginin güvenilmez olduğunu öğretti. İlişkilere yapışabilir, sürekli güvence arayabilir veya terk edilmeden önce önleyici olarak ayrılabilirsiniz. İyileşmeniz, değerinizin başka birinin kalma yeteneğiyle belirlenmediğini öğrendiğinizde başlar.",
+      "trait1": "Terk edilme veya değiştirilme korkusu",
+      "trait2": "Sürekli güvence arama",
+      "trait3": "Bağımsızlıkta zorluk",
+      "prompt": "Sevgili küçük, sen çok fazla değilsin. Kimsenin gitme nedeni hiçbir zaman sen olmadın. Kalan bir sevgiyi hak ediyorsun."
+    },
+    "criticizedChild": {
+      "name": "Eleştirilmiş Çocuk",
+      "tagline": "Sevginin mükemmellik yoluyla kazanılması gerektiğini öğrenen bir ruh",
+      "description": "İç çocuğunuz eleştiri yarasını taşıyor. Büyürken onay koşulluydu — başarıya, davranışa veya imkansız standartları karşılamaya bağlıydı. Mükemmeliyetçiliği ve kendinden şüpheyi besleyen sert bir iç eleştirmen geliştirdiniz. İyileşmeniz, bir şey başarmadan önce bile her zaman yeterli olduğunuzu fark ettiğinizde başlar.",
+      "trait1": "Sert iç eleştirmen",
+      "trait2": "Mükemmeliyetçilik ve aşırı başarı",
+      "trait3": "Hata yapma korkusu",
+      "prompt": "Sevgili küçük, sevilmek için mükemmel olmak zorunda değilsin. Her zaman yeterliydin, tam olarak olduğun gibi."
+    },
+    "invisibleChild": {
+      "name": "Görünmez Çocuk",
+      "tagline": "Mümkün olduğunca az yer kaplamayı öğrenen bir varlık",
+      "description": "İç çocuğunuz görünmezlik yarasını taşıyor. İhtiyaçlarınızın, duygularınızın ve fikirlerinizin önemli olmadığını — veya onları ifade etmenin sorun yarattığını öğrendiniz. Ortamları okuma, başkalarını memnun etme ve kaybolma ustası oldunuz. İyileşmeniz, özür dilemeden yer kaplamayı pratik ettiğinizde başlar.",
+      "trait1": "İnsanları memnun etme ve kendini küçümseme",
+      "trait2": "İhtiyaçları ifade etmede zorluk",
+      "trait3": "Görünmez veya duyulmamış hissetme",
+      "prompt": "Sevgili küçük, görülme izniniz var. Sesiniz önemli. Güvende olmak için küçülmek zorunda değilsiniz."
+    },
+    "parentifiedChild": {
+      "name": "Ebeveynleştirilmiş Çocuk",
+      "tagline": "Çok hızlı büyüyen ve nasıl oynanacağını unutan bir çocuk",
+      "description": "İç çocuğunuz kayıp çocukluk yarasını taşıyor. Aileniz için çok erken — duygusal veya pratik olarak — bakıcı oldunuz. Sorumlu, olgun ve özverili olmanın hayatta kalma yolu olduğunu öğrendiniz. İyileşmeniz, bakılma, oynama ve dinlenme izni verdiğinizde başlar.",
+      "trait1": "Başkaları için aşırı sorumluluk",
+      "trait2": "Yardım veya bakım almada zorluk",
+      "trait3": "Kendinizi önceliklendirirken suçluluk",
+      "prompt": "Sevgili küçük, aileyi taşımak hiçbir zaman senin işin değildi. Yükü bırakma ve sadece çocuk olma izniniz var."
+    },
+    "overprotectedChild": {
+      "name": "Aşırı Korunmuş Çocuk",
+      "tagline": "Kafes haline gelen güvenliğe sarılmış bir ruh",
+      "description": "İç çocuğunuz aşırı koruma yarasını taşıyor. Bakıcılarınız iyi niyetli olsa da, sürekli koruma dünyanın tehlikeli olduğunu ve bununla başa çıkamayacağınızı öğretti. Risk, bağımsızlık ve kendi gücünüze güvenme konusunda mücadele edersiniz. İyileşmeniz, küçük cesur adımlar attığınızda ve kendinize yetenekli olduğunuzu kanıtladığınızda başlar.",
+      "trait1": "Kaygı ve riskten kaçınma",
+      "trait2": "Bağımsızlıkta zorluk",
+      "trait3": "Güvenlik ve öngörülebilirlik ihtiyacı",
+      "prompt": "Sevgili küçük, dünya sana söyledikleri kadar korkutucu değil. Bildiğinden daha cesur ve güçlüsün."
+    },
+    "playfulChild": {
+      "name": "Oyuncu Çocuk",
+      "tagline": "Nasıl merak edileceğini, yaratılacağını ve gülüneceğini hatırlayan bir kalp",
+      "description": "İç çocuğunuz oldukça bağlantılı ve canlı. Neşe, spontanlık, yaratıcılık ve gerçek kendini ifade etme kapasitenizi korudunuz (veya yeniden bağlandınız). Bu, zorluklarla karşılaşmadığınız anlamına gelmez — iç çocuğunuzun oyun ve özgünlük ihtiyacını onurlandırmanın yollarını bulduğunuz anlamına gelir. Bu hediyeyi beslemeye devam edin.",
+      "trait1": "Duygusal özgünlük",
+      "trait2": "Neşe ve yaratıcılık kapasitesi",
+      "trait3": "Sağlıklı kendini ifade etme",
+      "prompt": "Sevgili iç çocuk, içimde canlı kaldığın için teşekkür ederim. Seninle oynamaya, yaratmaya ve gülmeye devam edeceğime söz veriyorum."
+    }
+  },
+  "share": {
+    "text": "İç çocuk arketipim '{type}'! Seninki ne?"
+  },
+  "game": {
+    "back": "DopaBrain Ana Sayfa"
+  }
+}

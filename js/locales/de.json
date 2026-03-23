@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "page_title": "Inneres Kind Test - Heilen Sie Ihre Kindheitswunden | DopaBrain",
+    "description": "Welche Kindheitswunde prägt Ihr Erwachsenenleben? Entdecken Sie Ihren inneren Kind-Archetyp: Verlassen, Kritisiert, Unsichtbar, Parentifiziert, Überbehütet oder Verspielt. 8 Fragen, kostenlos.",
+    "keywords": "inneres kind test, inneres kind quiz, kindheitswunden test, inneres kind heilung, inneres kind archetyp, kindheitstrauma test, reparenting quiz, innere kind arbeit",
+    "og_title": "Inneres Kind Test - Heilen Sie Ihre Kindheitswunden",
+    "og_description": "8 Fragen enthüllen Ihren inneren Kind-Archetyp und personalisierte Heilungsaffirmationen.",
+    "twitter_title": "Inneres Kind Test - Heilen Sie Ihre Kindheitswunden",
+    "twitter_description": "8 Fragen enthüllen Ihren inneren Kind-Archetyp!"
+  },
+  "app": {
+    "skipLink": "Zum Hauptinhalt springen",
+    "loading": "Lädt..."
+  },
+  "intro": {
+    "title": "Inneres Kind Test",
+    "subtitle": "Heilen Sie Ihre Kindheitswunden",
+    "social_proof": "Menschen haben erkundet",
+    "feature_types": "6 Innere Kind Typen",
+    "feature_questions": "8 Szenarien",
+    "feature_metrics": "5 Wunden-Dimensionen",
+    "time_estimate": "Dauert etwa 2 Minuten"
+  },
+  "carousel": {
+    "abandonedChild": "Verlassenes Kind",
+    "criticizedChild": "Kritisiertes Kind",
+    "invisibleChild": "Unsichtbares Kind",
+    "parentifiedChild": "Parentifiziertes Kind",
+    "overprotectedChild": "Überbehütetes Kind",
+    "playfulChild": "Verspieltes Kind"
+  },
+  "button": {
+    "start": "Begegnen Sie Ihrem Inneren Kind",
+    "retry": "Erneut Versuchen",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Link Kopieren"
+  },
+  "question": {
+    "0": "Wenn jemand, der Ihnen wichtig ist, lange Zeit nicht zurückschreibt, ist Ihr erster Gedanke?",
+    "0a": "Sie werden mich wahrscheinlich verlassen — ich sollte mich zuerst melden",
+    "0b": "Ich habe wahrscheinlich etwas falsch gemacht, das sie verärgert hat",
+    "0c": "Ist schon okay, ich möchte sie sowieso nicht stören",
+    "0d": "Ich sollte prüfen, ob es ihnen gut geht — sie brauchen vielleicht Hilfe",
+    "0e": "Etwas Schlimmes muss passiert sein — ich fühle mich ängstlich",
+    "0f": "Sie sind wahrscheinlich beschäftigt — ich mache währenddessen etwas Spaßiges",
+
+    "1": "Wenn Sie ein ehrliches Kompliment erhalten, tun Sie typischerweise:",
+    "1a": "Misstrauisch werden — sie wollen wahrscheinlich etwas von mir",
+    "1b": "Sofort an Möglichkeiten denken, noch besser zu sein",
+    "1c": "Es abwehren — 'ach, das war nichts wirklich'",
+    "1d": "Mich bedanken, aber mich unwohl fühlen, im Mittelpunkt zu stehen",
+    "1e": "Mich überwältigt fühlen und unsicher, wie ich reagieren soll",
+    "1f": "Es herzlich annehmen und mich wirklich gut dabei fühlen",
+
+    "2": "An einem seltenen freien Tag ohne jegliche Verpflichtungen:",
+    "2a": "Fühle ich mich ängstlich, allein zu sein und kontaktiere jemanden",
+    "2b": "Nutze ich ihn für Selbstverbesserung oder um Aufgaben nachzuholen",
+    "2c": "Frage ich andere, was sie gerne tun würden",
+    "2d": "Hole ich Dinge nach, die ich für andere aufgeschoben habe",
+    "2e": "Bleibe ich zu Hause, wo es sicher und gemütlich ist",
+    "2f": "Mache ich etwas Spontanes und Kreatives nur zum Spaß",
+
+    "3": "Wenn Sie bei der Arbeit oder in der Schule einen deutlichen Fehler machen:",
+    "3a": "Fürchte ich, dass alle mich anders sehen und sich distanzieren werden",
+    "3b": "Mache ich mir Vorwürfe und spiele den Moment endlos ab",
+    "3c": "Entschuldige ich mich übermäßig, auch wenn es klein war",
+    "3d": "Behebe ich es schnell und auch die Probleme aller anderen",
+    "3e": "Fühle ich mich gelähmt und habe Angst, es erneut zu versuchen",
+    "3f": "Lache ich darüber, lerne daraus und mache weiter",
+
+    "4": "In engen Beziehungen ist Ihre tiefste Angst:",
+    "4a": "Verlassen oder durch jemand Besseres ersetzt zu werden",
+    "4b": "Nicht gut genug für die andere Person zu sein",
+    "4c": "Eine Last zu sein oder zu viel Raum einzunehmen",
+    "4d": "Menschen zu enttäuschen oder sie nicht beschützen zu können",
+    "4e": "Verletzt zu werden oder dass sich die Beziehung unsicher anfühlt",
+    "4f": "Die Freude und Verspieltheit in der Verbindung zu verlieren",
+
+    "5": "Wie gehen Sie typischerweise mit Ihren eigenen emotionalen Bedürfnissen um?",
+    "5a": "Ich schaue, dass andere sie erfüllen — allein sein ist beängstigend",
+    "5b": "Ich mache einfach weiter — Bedürfnisse zu haben fühlt sich schwach an",
+    "5c": "Ich spiele sie herunter — die Bedürfnisse anderer sind wichtiger",
+    "5d": "Ich kümmere mich zuerst um alle anderen, dann vielleicht um mich",
+    "5e": "Ich erfülle sie nur auf kontrollierte, vorhersehbare Weise",
+    "5f": "Ich höre auf das, was ich brauche und ehre es natürlich",
+
+    "6": "Wenn Konflikte in einer engen Beziehung entstehen:",
+    "6a": "Gerate ich in Panik und tue alles, um zu verhindern, dass sie gehen",
+    "6b": "Nehme ich an, dass es meine Schuld ist und versuche künftig perfekt zu sein",
+    "6c": "Werde ich still und ziehe mich zurück, um den Frieden zu wahren",
+    "6d": "Versuche ich zu vermitteln und alles für alle zu richten",
+    "6e": "Erstarrt ich und möchte mich in Sicherheit zurückziehen",
+    "6f": "Spreche ich es ehrlich und mit ruhigem Selbstvertrauen an",
+
+    "7": "Spät in der Nacht ist der Gedanke, der Sie am häufigsten besucht:",
+    "7a": "Werde ich wirklich geliebt, oder werden alle mich irgendwann verlassen?",
+    "7b": "Ich bin immer noch nicht genug — ich muss mich mehr anstrengen",
+    "7c": "Sieht mich überhaupt jemand wirklich?",
+    "7d": "Ich bin erschöpft davon, die Last aller anderen zu tragen",
+    "7e": "Die Welt fühlt sich überwältigend und unsicher an",
+    "7f": "Das Leben ist ein Abenteuer und ich wachse jeden Tag"
+  },
+  "analyzing": {
+    "title": "Ihrem inneren Kind zuhören...",
+    "scanning": "Kindheitsmuster scannen...",
+    "mapping": "Emotionale Wunden kartieren...",
+    "integrating": "Ihr inneres Kind finden...",
+    "complete": "Ihr inneres Kind hat gesprochen!"
+  },
+  "result": {
+    "your_type": "Ihr Innerer Kind-Archetyp",
+    "wound_dimensions": "Wunden-Dimensionen",
+    "dimension_scores": "Dimensions-Werte",
+    "key_traits": "Kernmuster",
+    "healing_affirmation": "Heilungsaffirmation",
+    "percentile": "Nur {pct} der Menschen haben den {type}-Archetyp",
+    "moreTests": "Mehr Erkunden",
+    "share": "Teilen Sie Ihre Ergebnisse"
+  },
+  "metric": {
+    "abandonment": "Verlassenheit",
+    "shame": "Scham",
+    "trust": "Vertrauen",
+    "autonomy": "Autonomie",
+    "healing": "Heilung"
+  },
+  "type": {
+    "abandonedChild": {
+      "name": "Das Verlassene Kind",
+      "tagline": "Ein Herz, das gelernt hat, dass Liebe bedeutet, irgendwann verlassen zu werden",
+      "description": "Ihr inneres Kind trägt die Wunde der Verlassenheit. Eine frühe Erfahrung von Verlust, Abwesenheit oder emotionaler Nichtverfügbarkeit lehrte Sie, dass Liebe unzuverlässig ist. Sie können an Beziehungen klammern, ständige Bestätigung suchen oder präventiv gehen, bevor Sie verlassen werden. Ihre Heilung beginnt, wenn Sie lernen, dass Ihr Wert nicht von der Fähigkeit eines anderen bestimmt wird, zu bleiben.",
+      "trait1": "Angst, verlassen oder ersetzt zu werden",
+      "trait2": "Ständige Bestätigung suchen",
+      "trait3": "Schwierigkeiten mit Unabhängigkeit",
+      "prompt": "Liebes kleines Kind, du bist nicht zu viel. Du warst nie der Grund, warum jemand ging. Du verdienst Liebe, die bleibt."
+    },
+    "criticizedChild": {
+      "name": "Das Kritisierte Kind",
+      "tagline": "Eine Seele, die gelernt hat, dass Liebe durch Perfektion verdient werden muss",
+      "description": "Ihr inneres Kind trägt die Wunde der Kritik. Beim Aufwachsen war Anerkennung an Bedingungen geknüpft — an Leistung, Verhalten oder das Erfüllen unmöglicher Standards. Sie entwickelten einen harten inneren Kritiker, der Perfektionismus und Selbstzweifel antreibt. Ihre Heilung beginnt, wenn Sie erkennen, dass Sie immer genug waren, schon bevor Sie irgendetwas erreicht haben.",
+      "trait1": "Harter innerer Kritiker",
+      "trait2": "Perfektionismus und Überleistung",
+      "trait3": "Angst, Fehler zu machen",
+      "prompt": "Liebes kleines Kind, du musst nicht perfekt sein, um geliebt zu werden. Du warst immer genug, genau so wie du bist."
+    },
+    "invisibleChild": {
+      "name": "Das Unsichtbare Kind",
+      "tagline": "Eine Präsenz, die gelernt hat, so wenig Raum wie möglich einzunehmen",
+      "description": "Ihr inneres Kind trägt die Wunde der Unsichtbarkeit. Sie lernten, dass Ihre Bedürfnisse, Gefühle und Meinungen nicht zählten — oder dass ihr Ausdruck Probleme verursachte. Sie wurden Meister darin, Räume zu lesen, andere zu erfreuen und zu verschwinden. Ihre Heilung beginnt, wenn Sie üben, ohne Entschuldigung Raum einzunehmen.",
+      "trait1": "Menschen gefallen und Selbstminimierung",
+      "trait2": "Schwierigkeiten, Bedürfnisse auszudrücken",
+      "trait3": "Sich unsichtbar oder ungehört fühlen",
+      "prompt": "Liebes kleines Kind, du darfst gesehen werden. Deine Stimme zählt. Du musst dich nicht klein machen, um sicher zu sein."
+    },
+    "parentifiedChild": {
+      "name": "Das Parentifizierte Kind",
+      "tagline": "Ein Kind, das zu schnell erwachsen wurde und vergessen hat, wie man spielt",
+      "description": "Ihr inneres Kind trägt die Wunde der verlorenen Kindheit. Sie wurden zu früh zum Betreuer — emotional oder praktisch — für Ihre Familie. Sie lernten, dass verantwortungsvoll, reif und selbstlos zu sein der Weg zum Überleben war. Ihre Heilung beginnt, wenn Sie sich selbst erlauben, umsorgt zu werden, zu spielen und sich auszuruhen.",
+      "trait1": "Über-Verantwortlichkeit für andere",
+      "trait2": "Schwierigkeiten, Hilfe oder Fürsorge anzunehmen",
+      "trait3": "Schuld bei Selbstpriorisierung",
+      "prompt": "Liebes kleines Kind, es war nie deine Aufgabe, die Familie zu tragen. Du darfst die Last ablegen und einfach ein Kind sein."
+    },
+    "overprotectedChild": {
+      "name": "Das Überbehütete Kind",
+      "tagline": "Ein Geist, in Sicherheit gehüllt, die zum Käfig wurde",
+      "description": "Ihr inneres Kind trägt die Wunde der Überbehütung. Während Ihre Betreuer es gut meinten, lehrte die ständige Abschirmung, dass die Welt gefährlich ist und Sie damit nicht umgehen können. Sie kämpfen mit Risiko, Unabhängigkeit und dem Vertrauen in Ihre eigene Stärke. Ihre Heilung beginnt, wenn Sie kleine mutige Schritte unternehmen und sich selbst beweisen, dass Sie fähig sind.",
+      "trait1": "Angst und Risikovermeidung",
+      "trait2": "Schwierigkeiten mit Unabhängigkeit",
+      "trait3": "Bedürfnis nach Sicherheit und Vorhersagbarkeit",
+      "prompt": "Liebes kleines Kind, die Welt ist nicht so beängstigend, wie man dir gesagt hat. Du bist mutiger und stärker, als du weißt."
+    },
+    "playfulChild": {
+      "name": "Das Verspielte Kind",
+      "tagline": "Ein Herz, das sich erinnert, wie man staunt, erschafft und lacht",
+      "description": "Ihr inneres Kind ist bemerkenswert verbunden und lebendig. Sie haben Ihre Fähigkeit zu Freude, Spontaneität, Kreativität und echtem Selbstausdruck bewahrt (oder wiederhergestellt). Das bedeutet nicht, dass Sie keine Herausforderungen bewältigt haben — es bedeutet, dass Sie Wege gefunden haben, das Bedürfnis Ihres inneren Kindes nach Spiel und Authentizität zu ehren. Pflegen Sie dieses Geschenk weiter.",
+      "trait1": "Emotionale Authentizität",
+      "trait2": "Fähigkeit zu Freude und Kreativität",
+      "trait3": "Gesunder Selbstausdruck",
+      "prompt": "Liebes inneres Kind, danke, dass du in mir lebendig geblieben bist. Ich verspreche, weiterhin mit dir zu spielen, zu erschaffen und zu lachen."
+    }
+  },
+  "share": {
+    "text": "Mein innerer Kind-Archetyp ist '{type}'! Was ist deiner?"
+  },
+  "game": {
+    "back": "DopaBrain Startseite"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "page_title": "Test de l'Enfant Intérieur - Guérissez Vos Blessures d'Enfance | DopaBrain",
+    "description": "Quelle blessure d'enfance façonne votre vie d'adulte ? Découvrez votre archétype d'enfant intérieur : Abandonné, Critiqué, Invisible, Parentifié, Surprotégé ou Joueur. 8 questions, gratuit.",
+    "keywords": "test enfant intérieur, quiz enfant intérieur, test blessures enfance, guérison enfant intérieur, archétype enfant intérieur, test trauma enfance, quiz reparentage, travail enfant intérieur",
+    "og_title": "Test de l'Enfant Intérieur - Guérissez Vos Blessures d'Enfance",
+    "og_description": "8 questions révèlent votre archétype d'enfant intérieur et des affirmations de guérison personnalisées.",
+    "twitter_title": "Test de l'Enfant Intérieur - Guérissez Vos Blessures d'Enfance",
+    "twitter_description": "8 questions révèlent votre archétype d'enfant intérieur !"
+  },
+  "app": {
+    "skipLink": "Passer au contenu principal",
+    "loading": "Chargement..."
+  },
+  "intro": {
+    "title": "Test de l'Enfant Intérieur",
+    "subtitle": "Guérissez Vos Blessures d'Enfance",
+    "social_proof": "personnes ont exploré",
+    "feature_types": "6 Types d'Enfant Intérieur",
+    "feature_questions": "8 Scénarios",
+    "feature_metrics": "5 Dimensions de Blessures",
+    "time_estimate": "Prend environ 2 minutes"
+  },
+  "carousel": {
+    "abandonedChild": "Enfant Abandonné",
+    "criticizedChild": "Enfant Critiqué",
+    "invisibleChild": "Enfant Invisible",
+    "parentifiedChild": "Enfant Parentifié",
+    "overprotectedChild": "Enfant Surprotégé",
+    "playfulChild": "Enfant Joueur"
+  },
+  "button": {
+    "start": "Rencontrez Votre Enfant Intérieur",
+    "retry": "Réessayer",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copier le Lien"
+  },
+  "question": {
+    "0": "Quand quelqu'un qui vous tient à cœur ne répond pas pendant longtemps, votre première pensée est ?",
+    "0a": "Ils vont probablement me quitter — je devrais contacter en premier",
+    "0b": "J'ai probablement fait quelque chose de mal qui les a contrariés",
+    "0c": "Ce n'est pas grave, je ne veux pas les déranger de toute façon",
+    "0d": "Je devrais vérifier s'ils vont bien — ils ont peut-être besoin d'aide",
+    "0e": "Quelque chose de grave a dû arriver — je me sens anxieux/anxieuse",
+    "0f": "Ils sont probablement occupés — je vais faire quelque chose d'amusant en attendant",
+
+    "1": "Quand vous recevez un compliment sincère, vous avez généralement tendance à :",
+    "1a": "Me méfier — ils veulent probablement quelque chose de moi",
+    "1b": "Penser immédiatement à des façons d'être encore meilleur",
+    "1c": "Le détourner — 'oh, ce n'était rien vraiment'",
+    "1d": "Les remercier mais me sentir mal à l'aise d'être au centre",
+    "1e": "Me sentir dépassé/dépassée et incertain/incertaine de comment répondre",
+    "1f": "L'accepter chaleureusement et me sentir vraiment bien",
+
+    "2": "Lors d'une rare journée libre sans aucune responsabilité :",
+    "2a": "Je me sens anxieux/anxieuse d'être seul/seule et contacte quelqu'un",
+    "2b": "Je l'utilise pour m'améliorer ou rattraper des tâches",
+    "2c": "Je demande aux autres ce qu'ils aimeraient faire",
+    "2d": "Je rattrape des choses que j'ai repoussées pour les autres",
+    "2e": "Je reste à la maison où c'est sûr et confortable",
+    "2f": "Je fais quelque chose de spontané et créatif juste pour m'amuser",
+
+    "3": "Quand vous faites une erreur notable au travail ou à l'école :",
+    "3a": "Je crains que tout le monde me voie différemment et s'éloigne",
+    "3b": "Je me blâme et rejoue le moment sans cesse",
+    "3c": "Je m'excuse excessivement même si c'était mineur",
+    "3d": "Je corrige rapidement et aussi les problèmes de tout le monde",
+    "3e": "Je me sens paralysé/paralysée et effrayé/effrayée de réessayer",
+    "3f": "J'en ris, j'en tire des leçons et je passe à autre chose",
+
+    "4": "Dans les relations proches, votre peur la plus profonde est :",
+    "4a": "Être abandonné/abandonnée ou remplacé/remplacée par quelqu'un de mieux",
+    "4b": "Ne pas être assez bien pour l'autre personne",
+    "4c": "Être un fardeau ou prendre trop de place",
+    "4d": "Décevoir les gens ou échouer à les protéger",
+    "4e": "Être blessé/blessée ou que la relation se sente dangereuse",
+    "4f": "Perdre la joie et l'espièglerie dans la connexion",
+
+    "5": "Comment gérez-vous généralement vos propres besoins émotionnels ?",
+    "5a": "Je me tourne vers les autres pour les satisfaire — être seul/seule fait peur",
+    "5b": "Je continue — avoir des besoins semble être une faiblesse",
+    "5c": "Je les minimise — les besoins des autres sont plus importants",
+    "5d": "Je m'occupe d'abord de tout le monde, puis peut-être de moi",
+    "5e": "Je les satisfais uniquement de manières contrôlées et prévisibles",
+    "5f": "J'écoute ce dont j'ai besoin et l'honore naturellement",
+
+    "6": "Quand un conflit survient dans une relation proche :",
+    "6a": "Je panique et fais tout pour les empêcher de partir",
+    "6b": "Je suppose que c'est de ma faute et j'essaie d'être parfait/parfaite dorénavant",
+    "6c": "Je me tais et me retire pour maintenir la paix",
+    "6d": "J'essaie de médier et de tout arranger pour tout le monde",
+    "6e": "Je me fige et veux me retirer en sécurité",
+    "6f": "Je l'aborde honnêtement et avec une confiance calme",
+
+    "7": "Tard dans la nuit, la pensée qui vous visite le plus souvent est :",
+    "7a": "Suis-je vraiment aimé/aimée, ou tout le monde finira-t-il par partir ?",
+    "7b": "Je ne suis toujours pas assez — je dois faire plus d'efforts",
+    "7c": "Est-ce que quelqu'un voit vraiment mon vrai moi ?",
+    "7d": "Je suis épuisé/épuisée de porter le poids de tout le monde",
+    "7e": "Le monde semble accablant et dangereux",
+    "7f": "La vie est une aventure et je grandis chaque jour"
+  },
+  "analyzing": {
+    "title": "Écoute de votre enfant intérieur...",
+    "scanning": "Analyse des schémas d'enfance...",
+    "mapping": "Cartographie des blessures émotionnelles...",
+    "integrating": "Recherche de votre enfant intérieur...",
+    "complete": "Votre enfant intérieur a parlé !"
+  },
+  "result": {
+    "your_type": "Votre Archétype d'Enfant Intérieur",
+    "wound_dimensions": "Dimensions des Blessures",
+    "dimension_scores": "Scores des Dimensions",
+    "key_traits": "Schémas Fondamentaux",
+    "healing_affirmation": "Affirmation de Guérison",
+    "percentile": "Seulement {pct} des personnes ont l'archétype {type}",
+    "moreTests": "Explorer Plus",
+    "share": "Partagez Vos Résultats"
+  },
+  "metric": {
+    "abandonment": "Abandon",
+    "shame": "Honte",
+    "trust": "Confiance",
+    "autonomy": "Autonomie",
+    "healing": "Guérison"
+  },
+  "type": {
+    "abandonedChild": {
+      "name": "L'Enfant Abandonné",
+      "tagline": "Un cœur qui a appris que l'amour signifie finalement être quitté",
+      "description": "Votre enfant intérieur porte la blessure de l'abandon. Une expérience précoce de perte, d'absence ou d'indisponibilité émotionnelle vous a appris que l'amour n'est pas fiable. Vous pouvez vous accrocher aux relations, chercher une réassurance constante ou partir préventivement avant d'être quitté/quittée. Votre guérison commence quand vous apprenez que votre valeur n'est pas déterminée par la capacité de quelqu'un d'autre à rester.",
+      "trait1": "Peur d'être quitté/quittée ou remplacé/remplacée",
+      "trait2": "Recherche de réassurance constante",
+      "trait3": "Difficulté avec l'indépendance",
+      "prompt": "Cher petit enfant, tu n'es pas de trop. Tu n'as jamais été la raison pour laquelle quelqu'un est parti. Tu mérites un amour qui reste."
+    },
+    "criticizedChild": {
+      "name": "L'Enfant Critiqué",
+      "tagline": "Une âme qui a appris que l'amour doit être mérité par la perfection",
+      "description": "Votre enfant intérieur porte la blessure de la critique. En grandissant, l'approbation était conditionnelle — liée à la réussite, au comportement ou au respect de normes impossibles. Vous avez développé un critique intérieur sévère qui alimente le perfectionnisme et le doute de soi. Votre guérison commence quand vous réalisez que vous avez toujours été assez, même avant d'accomplir quoi que ce soit.",
+      "trait1": "Critique intérieur sévère",
+      "trait2": "Perfectionnisme et surperformance",
+      "trait3": "Peur de faire des erreurs",
+      "prompt": "Cher petit enfant, tu n'as pas besoin d'être parfait/parfaite pour être aimé/aimée. Tu as toujours été assez, exactement comme tu es."
+    },
+    "invisibleChild": {
+      "name": "L'Enfant Invisible",
+      "tagline": "Une présence qui a appris à prendre le moins de place possible",
+      "description": "Votre enfant intérieur porte la blessure de l'invisibilité. Vous avez appris que vos besoins, sentiments et opinions n'avaient pas d'importance — ou que les exprimer causait des problèmes. Vous êtes devenu/devenue expert/experte pour lire les pièces, faire plaisir aux autres et disparaître. Votre guérison commence quand vous pratiquez à prendre de la place sans vous excuser.",
+      "trait1": "Complaisance et auto-minimisation",
+      "trait2": "Difficulté à exprimer les besoins",
+      "trait3": "Se sentir invisible ou non entendu/entendue",
+      "prompt": "Cher petit enfant, tu as le droit d'être vu/vue. Ta voix compte. Tu n'as pas besoin de te rétrécir pour être en sécurité."
+    },
+    "parentifiedChild": {
+      "name": "L'Enfant Parentifié",
+      "tagline": "Un enfant qui a grandi trop vite et a oublié comment jouer",
+      "description": "Votre enfant intérieur porte la blessure de l'enfance perdue. Vous êtes devenu/devenue le soignant — émotionnellement ou pratiquement — pour votre famille trop tôt. Vous avez appris qu'être responsable, mature et altruiste était la façon de survivre. Votre guérison commence quand vous vous donnez la permission d'être pris/prise en charge, de jouer et de vous reposer.",
+      "trait1": "Hyper-responsabilité envers les autres",
+      "trait2": "Difficulté à recevoir de l'aide ou des soins",
+      "trait3": "Culpabilité en vous priorisant",
+      "prompt": "Cher petit enfant, ce n'était jamais ton travail de porter la famille. Tu as le droit de poser le poids et d'être juste un enfant."
+    },
+    "overprotectedChild": {
+      "name": "L'Enfant Surprotégé",
+      "tagline": "Un esprit enveloppé dans la sécurité qui est devenue une cage",
+      "description": "Votre enfant intérieur porte la blessure de la surprotection. Bien que vos soignants aient bien fait, le bouclier constant a enseigné que le monde est dangereux et que vous ne pouvez pas y faire face. Vous luttez avec le risque, l'indépendance et la confiance en votre propre force. Votre guérison commence quand vous faites de petits pas courageux et vous prouvez que vous êtes capable.",
+      "trait1": "Anxiété et évitement du risque",
+      "trait2": "Difficulté avec l'indépendance",
+      "trait3": "Besoin de sécurité et de prévisibilité",
+      "prompt": "Cher petit enfant, le monde n'est pas aussi effrayant qu'on te l'a dit. Tu es plus courageux/courageuse et plus fort/forte que tu ne le sais."
+    },
+    "playfulChild": {
+      "name": "L'Enfant Joueur",
+      "tagline": "Un cœur qui se souvient comment s'émerveiller, créer et rire",
+      "description": "Votre enfant intérieur est remarquablement connecté et vivant. Vous avez maintenu (ou reconnecté avec) votre capacité à la joie, la spontanéité, la créativité et l'expression authentique de soi. Cela ne signifie pas que vous n'avez pas affronté de défis — cela signifie que vous avez trouvé des moyens d'honorer le besoin de jeu et d'authenticité de votre enfant intérieur. Continuez à nourrir ce don.",
+      "trait1": "Authenticité émotionnelle",
+      "trait2": "Capacité à la joie et à la créativité",
+      "trait3": "Expression de soi saine",
+      "prompt": "Cher enfant intérieur, merci d'être resté/restée vivant/vivante en moi. Je promets de continuer à jouer, créer et rire avec toi."
+    }
+  },
+  "share": {
+    "text": "Mon archétype d'enfant intérieur est '{type}' ! Quel est le vôtre ?"
+  },
+  "game": {
+    "back": "Accueil DopaBrain"
+  }
+}

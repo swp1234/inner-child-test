@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "page_title": "Test del Niño Interior - Sana Tus Heridas de Infancia | DopaBrain",
+    "description": "¿Qué herida de la infancia moldea tu vida adulta? Descubre tu arquetipo del niño interior: Abandonado, Criticado, Invisible, Parentificado, Sobreprotegido o Juguetón. 8 preguntas, gratis.",
+    "keywords": "test del niño interior, quiz del niño interior, test de heridas de infancia, sanación del niño interior, arquetipo del niño interior, test de trauma infantil, quiz de reparentalización, trabajo del niño interior",
+    "og_title": "Test del Niño Interior - Sana Tus Heridas de Infancia",
+    "og_description": "8 preguntas revelan tu arquetipo del niño interior y afirmaciones de sanación personalizadas.",
+    "twitter_title": "Test del Niño Interior - Sana Tus Heridas de Infancia",
+    "twitter_description": "¡8 preguntas revelan tu arquetipo del niño interior!"
+  },
+  "app": {
+    "skipLink": "Saltar al contenido principal",
+    "loading": "Cargando..."
+  },
+  "intro": {
+    "title": "Test del Niño Interior",
+    "subtitle": "Sana Tus Heridas de Infancia",
+    "social_proof": "personas han explorado",
+    "feature_types": "6 Tipos de Niño Interior",
+    "feature_questions": "8 Escenarios",
+    "feature_metrics": "5 Dimensiones de Heridas",
+    "time_estimate": "Toma alrededor de 2 minutos"
+  },
+  "carousel": {
+    "abandonedChild": "Niño Abandonado",
+    "criticizedChild": "Niño Criticado",
+    "invisibleChild": "Niño Invisible",
+    "parentifiedChild": "Niño Parentificado",
+    "overprotectedChild": "Niño Sobreprotegido",
+    "playfulChild": "Niño Juguetón"
+  },
+  "button": {
+    "start": "Conoce Tu Niño Interior",
+    "retry": "Intentar de Nuevo",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copiar Enlace"
+  },
+  "question": {
+    "0": "Cuando alguien que te importa no responde un mensaje por mucho tiempo, ¿tu primer pensamiento es?",
+    "0a": "Probablemente me van a dejar — debería escribir primero",
+    "0b": "Probablemente hice algo mal que les molestó",
+    "0c": "Está bien, no quiero molestarles de todos modos",
+    "0d": "Debería verificar si están bien — podrían necesitar ayuda",
+    "0e": "Algo malo debe haber pasado — me siento ansioso/a",
+    "0f": "Probablemente están ocupados/as — haré algo divertido mientras tanto",
+
+    "1": "Cuando recibes un cumplido genuino, típicamente:",
+    "1a": "Me siento desconfiado/a — probablemente quieren algo de mí",
+    "1b": "Inmediatamente pienso en formas de ser aún mejor",
+    "1c": "Lo desvío — 'oh, no fue nada realmente'",
+    "1d": "Les agradezco pero me siento incómodo/a siendo el centro",
+    "1e": "Me siento abrumado/a e inseguro/a de cómo responder",
+    "1f": "Lo acepto calurosamente y genuinamente me siento bien al respecto",
+
+    "2": "En un día libre raro sin absolutamente ninguna responsabilidad:",
+    "2a": "Me siento ansioso/a estando solo/a y contacto a alguien",
+    "2b": "Lo uso para mejorarme o ponerme al día con tareas",
+    "2c": "Pregunto a otros qué les gustaría hacer",
+    "2d": "Me pongo al día con cosas que he pospuesto por otros",
+    "2e": "Me quedo en casa donde es seguro y cómodo",
+    "2f": "Hago algo espontáneo y creativo solo por diversión",
+
+    "3": "Cuando cometes un error notable en el trabajo o la escuela:",
+    "3a": "Temo que todos me verán diferente y se alejarán",
+    "3b": "Me castigo y repito el momento sin cesar",
+    "3c": "Me disculpo profusamente incluso si fue menor",
+    "3d": "Lo arreglo rápidamente y también los problemas de todos los demás",
+    "3e": "Me siento paralizado/a y temo intentar de nuevo",
+    "3f": "Me río, aprendo de ello y sigo adelante",
+
+    "4": "En relaciones cercanas, tu miedo más profundo es:",
+    "4a": "Ser abandonado/a o reemplazado/a por alguien mejor",
+    "4b": "No ser suficientemente bueno/a para la otra persona",
+    "4c": "Ser una carga o ocupar demasiado espacio",
+    "4d": "Decepcionar a la gente o fallar en protegerlos",
+    "4e": "Ser lastimado/a o que la relación se sienta insegura",
+    "4f": "Perder la alegría y el juego en la conexión",
+
+    "5": "¿Cómo manejas típicamente tus propias necesidades emocionales?",
+    "5a": "Busco a otros para satisfacerlas — estar solo/a da miedo",
+    "5b": "Sigo adelante — tener necesidades se siente como debilidad",
+    "5c": "Las minimizo — las necesidades de otras personas importan más",
+    "5d": "Cuido a todos los demás primero, luego tal vez a mí",
+    "5e": "Las satisfago solo de formas controladas y predecibles",
+    "5f": "Escucho lo que necesito y lo honro naturalmente",
+
+    "6": "Cuando surge conflicto en una relación cercana:",
+    "6a": "Entro en pánico y hago lo que sea para evitar que se vayan",
+    "6b": "Asumo que es mi culpa e intento ser perfecto/a en adelante",
+    "6c": "Me quedo callado/a y me retiro para mantener la paz",
+    "6d": "Intento mediar y arreglar todo para todos",
+    "6e": "Me congelo y quiero retirarme a un lugar seguro",
+    "6f": "Lo abordo honestamente y con calma confianza",
+
+    "7": "Tarde en la noche, el pensamiento que te visita más a menudo es:",
+    "7a": "¿Soy verdaderamente amado/a, o todos eventualmente me dejarán?",
+    "7b": "Todavía no soy suficiente — necesito esforzarme más",
+    "7c": "¿Alguien realmente ve mi verdadero yo?",
+    "7d": "Estoy exhausto/a de cargar el peso de todos los demás",
+    "7e": "El mundo se siente abrumador e inseguro",
+    "7f": "La vida es una aventura y estoy creciendo cada día"
+  },
+  "analyzing": {
+    "title": "Escuchando a tu niño interior...",
+    "scanning": "Escaneando patrones de infancia...",
+    "mapping": "Mapeando heridas emocionales...",
+    "integrating": "Encontrando tu niño interior...",
+    "complete": "¡Tu niño interior ha hablado!"
+  },
+  "result": {
+    "your_type": "Tu Arquetipo del Niño Interior",
+    "wound_dimensions": "Dimensiones de Heridas",
+    "dimension_scores": "Puntuaciones de Dimensiones",
+    "key_traits": "Patrones Centrales",
+    "healing_affirmation": "Afirmación de Sanación",
+    "percentile": "Solo el {pct} de las personas tienen el arquetipo {type}",
+    "moreTests": "Explorar Más",
+    "share": "Comparte Tus Resultados"
+  },
+  "metric": {
+    "abandonment": "Abandono",
+    "shame": "Vergüenza",
+    "trust": "Confianza",
+    "autonomy": "Autonomía",
+    "healing": "Sanación"
+  },
+  "type": {
+    "abandonedChild": {
+      "name": "El Niño Abandonado",
+      "tagline": "Un corazón que aprendió que el amor significa eventualmente ser dejado",
+      "description": "Tu niño interior lleva la herida del abandono. Una experiencia temprana de pérdida, ausencia o falta de disponibilidad emocional te enseñó que el amor no es confiable. Puedes aferrarte a las relaciones, buscar consuelo constante o irte preventivamente antes de ser dejado/a. Tu sanación comienza cuando aprendes que tu valor no está determinado por la capacidad de alguien más de quedarse.",
+      "trait1": "Miedo a ser dejado/a o reemplazado/a",
+      "trait2": "Búsqueda de consuelo constante",
+      "trait3": "Dificultad con la independencia",
+      "prompt": "Querido pequeño/a, no eres demasiado. Nunca fuiste la razón por la que alguien se fue. Mereces un amor que se quede."
+    },
+    "criticizedChild": {
+      "name": "El Niño Criticado",
+      "tagline": "Un alma que aprendió que el amor debe ganarse a través de la perfección",
+      "description": "Tu niño interior lleva la herida de la crítica. Al crecer, la aprobación era condicional — ligada al logro, comportamiento o cumplir estándares imposibles. Desarrollaste un crítico interno severo que impulsa el perfeccionismo y la duda. Tu sanación comienza cuando te das cuenta de que siempre fuiste suficiente, incluso antes de lograr algo.",
+      "trait1": "Crítico interno severo",
+      "trait2": "Perfeccionismo y exceso de logros",
+      "trait3": "Miedo a cometer errores",
+      "prompt": "Querido pequeño/a, no tienes que ser perfecto/a para ser amado/a. Siempre fuiste suficiente, exactamente como eres."
+    },
+    "invisibleChild": {
+      "name": "El Niño Invisible",
+      "tagline": "Una presencia que aprendió a ocupar el menor espacio posible",
+      "description": "Tu niño interior lleva la herida de la invisibilidad. Aprendiste que tus necesidades, sentimientos y opiniones no importaban — o que expresarlos causaba problemas. Te convertiste en maestro/a de leer las habitaciones, complacer a otros y desaparecer. Tu sanación comienza cuando practicas ocupar espacio sin disculpas.",
+      "trait1": "Complacer a otros y auto-minimización",
+      "trait2": "Dificultad para expresar necesidades",
+      "trait3": "Sentirse invisible o no escuchado/a",
+      "prompt": "Querido pequeño/a, tienes permiso de ser visto/a. Tu voz importa. No tienes que encogerte para estar a salvo."
+    },
+    "parentifiedChild": {
+      "name": "El Niño Parentificado",
+      "tagline": "Un niño que creció demasiado rápido y olvidó cómo jugar",
+      "description": "Tu niño interior lleva la herida de la infancia perdida. Te convertiste en el cuidador — emocional o prácticamente — de tu familia demasiado pronto. Aprendiste que ser responsable, maduro/a y desinteresado/a era la forma de sobrevivir. Tu sanación comienza cuando te das permiso de ser cuidado/a, de jugar y de descansar.",
+      "trait1": "Hiper-responsabilidad por otros",
+      "trait2": "Dificultad para recibir ayuda o cuidado",
+      "trait3": "Culpa al priorizarte a ti mismo/a",
+      "prompt": "Querido pequeño/a, nunca fue tu trabajo cargar la familia. Tienes permiso de dejar el peso y simplemente ser un niño/a."
+    },
+    "overprotectedChild": {
+      "name": "El Niño Sobreprotegido",
+      "tagline": "Un espíritu envuelto en seguridad que se convirtió en jaula",
+      "description": "Tu niño interior lleva la herida de la sobreprotección. Aunque tus cuidadores tenían buenas intenciones, el blindaje constante te enseñó que el mundo es peligroso y que no puedes manejarlo. Luchas con el riesgo, la independencia y confiar en tu propia fuerza. Tu sanación comienza cuando das pequeños pasos valientes y te demuestras a ti mismo/a que eres capaz.",
+      "trait1": "Ansiedad y evitación de riesgos",
+      "trait2": "Dificultad con la independencia",
+      "trait3": "Necesidad de seguridad y previsibilidad",
+      "prompt": "Querido pequeño/a, el mundo no es tan aterrador como te dijeron. Eres más valiente y fuerte de lo que sabes."
+    },
+    "playfulChild": {
+      "name": "El Niño Juguetón",
+      "tagline": "Un corazón que recuerda cómo maravillarse, crear y reír",
+      "description": "Tu niño interior está notablemente conectado y vivo. Has mantenido (o reconectado con) tu capacidad para la alegría, espontaneidad, creatividad y expresión genuina. Esto no significa que no hayas enfrentado desafíos — significa que has encontrado formas de honrar la necesidad de juego y autenticidad de tu niño interior. Sigue nutriendo este regalo.",
+      "trait1": "Autenticidad emocional",
+      "trait2": "Capacidad para la alegría y creatividad",
+      "trait3": "Expresión saludable de ti mismo/a",
+      "prompt": "Querido niño interior, gracias por permanecer vivo/a en mí. Prometo seguir jugando, creando y riendo contigo."
+    }
+  },
+  "share": {
+    "text": "¡Mi arquetipo del niño interior es '{type}'! ¿Cuál es el tuyo?"
+  },
+  "game": {
+    "back": "Inicio DopaBrain"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "page_title": "Teste da Criança Interior - Cure Suas Feridas da Infância | DopaBrain",
+    "description": "Que ferida da infância molda sua vida adulta? Descubra seu arquétipo da criança interior: Abandonado, Criticado, Invisível, Parentificado, Superprotegido ou Brincalhão. 8 perguntas, grátis.",
+    "keywords": "teste da criança interior, quiz da criança interior, teste de feridas da infância, cura da criança interior, arquétipo da criança interior, teste de trauma infantil, quiz de reparentalização, trabalho da criança interior",
+    "og_title": "Teste da Criança Interior - Cure Suas Feridas da Infância",
+    "og_description": "8 perguntas revelam seu arquétipo da criança interior e afirmações de cura personalizadas.",
+    "twitter_title": "Teste da Criança Interior - Cure Suas Feridas da Infância",
+    "twitter_description": "8 perguntas revelam seu arquétipo da criança interior!"
+  },
+  "app": {
+    "skipLink": "Pular para o conteúdo principal",
+    "loading": "Carregando..."
+  },
+  "intro": {
+    "title": "Teste da Criança Interior",
+    "subtitle": "Cure Suas Feridas da Infância",
+    "social_proof": "pessoas exploraram",
+    "feature_types": "6 Tipos de Criança Interior",
+    "feature_questions": "8 Cenários",
+    "feature_metrics": "5 Dimensões de Feridas",
+    "time_estimate": "Leva cerca de 2 minutos"
+  },
+  "carousel": {
+    "abandonedChild": "Criança Abandonada",
+    "criticizedChild": "Criança Criticada",
+    "invisibleChild": "Criança Invisível",
+    "parentifiedChild": "Criança Parentificada",
+    "overprotectedChild": "Criança Superprotegida",
+    "playfulChild": "Criança Brincalhona"
+  },
+  "button": {
+    "start": "Conheça Sua Criança Interior",
+    "retry": "Tentar Novamente",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copiar Link"
+  },
+  "question": {
+    "0": "Quando alguém que você se importa não responde mensagem por muito tempo, seu primeiro pensamento é?",
+    "0a": "Eles provavelmente vão me deixar — devo entrar em contato primeiro",
+    "0b": "Provavelmente fiz algo errado que os chateou",
+    "0c": "Tudo bem, não quero incomodá-los de qualquer forma",
+    "0d": "Devo verificar se estão bem — eles podem precisar de ajuda",
+    "0e": "Algo ruim deve ter acontecido — estou me sentindo ansioso/a",
+    "0f": "Eles provavelmente estão ocupados — vou fazer algo divertido enquanto isso",
+
+    "1": "Quando você recebe um elogio genuíno, tipicamente:",
+    "1a": "Fico desconfiado/a — eles provavelmente querem algo de mim",
+    "1b": "Imediatamente penso em formas de ser ainda melhor",
+    "1c": "Desvio — 'ah, não foi nada realmente'",
+    "1d": "Agradeço mas me sinto desconfortável sendo o foco",
+    "1e": "Me sinto sobrecarregado/a e inseguro/a de como responder",
+    "1f": "Aceito calorosamente e genuinamente me sinto bem sobre isso",
+
+    "2": "Em um dia livre raro sem absolutamente nenhuma responsabilidade:",
+    "2a": "Me sinto ansioso/a estando sozinho/a e procuro alguém",
+    "2b": "Uso para auto-aprimoramento ou para recuperar tarefas",
+    "2c": "Pergunto aos outros o que eles gostariam de fazer",
+    "2d": "Recupero coisas que tenho adiado por causa dos outros",
+    "2e": "Fico em casa onde é seguro e confortável",
+    "2f": "Faço algo espontâneo e criativo apenas por diversão",
+
+    "3": "Quando você comete um erro notável no trabalho ou escola:",
+    "3a": "Temo que todos me vejam diferente e se afastem",
+    "3b": "Me culpo e repito o momento sem parar",
+    "3c": "Peço desculpas profusamente mesmo que tenha sido pequeno",
+    "3d": "Conserto rapidamente e também os problemas de todos",
+    "3e": "Me sinto paralisado/a e com medo de tentar novamente",
+    "3f": "Dou risada, aprendo com isso e sigo em frente",
+
+    "4": "Em relacionamentos próximos, seu medo mais profundo é:",
+    "4a": "Ser abandonado/a ou substituído/a por alguém melhor",
+    "4b": "Não ser bom/boa o suficiente para a outra pessoa",
+    "4c": "Ser um fardo ou ocupar muito espaço",
+    "4d": "Decepcionar pessoas ou falhar em protegê-las",
+    "4e": "Ser machucado/a ou o relacionamento parecer inseguro",
+    "4f": "Perder a alegria e a brincadeira na conexão",
+
+    "5": "Como você normalmente lida com suas próprias necessidades emocionais?",
+    "5a": "Procuro os outros para atendê-las — estar sozinho/a é assustador",
+    "5b": "Eu sigo em frente — ter necessidades parece fraqueza",
+    "5c": "Eu as minimizo — as necessidades das outras pessoas importam mais",
+    "5d": "Cuido de todos os outros primeiro, depois talvez de mim",
+    "5e": "Eu as atendo apenas de formas controladas e previsíveis",
+    "5f": "Escuto o que preciso e honro naturalmente",
+
+    "6": "Quando surge conflito em um relacionamento próximo:",
+    "6a": "Entro em pânico e faço qualquer coisa para evitar que eles saiam",
+    "6b": "Assumo que é minha culpa e tento ser perfeito/a daqui em diante",
+    "6c": "Fico quieto/a e me retiro para manter a paz",
+    "6d": "Tento mediar e consertar tudo para todos",
+    "6e": "Congelo e quero recuar para a segurança",
+    "6f": "Abordo honestamente e com confiança calma",
+
+    "7": "Tarde da noite, o pensamento que mais te visita é:",
+    "7a": "Sou verdadeiramente amado/a, ou todos eventualmente vão me deixar?",
+    "7b": "Ainda não sou suficiente — preciso me esforçar mais",
+    "7c": "Alguém realmente vê o meu verdadeiro eu?",
+    "7d": "Estou exausto/a de carregar o peso de todos os outros",
+    "7e": "O mundo parece avassalador e inseguro",
+    "7f": "A vida é uma aventura e estou crescendo a cada dia"
+  },
+  "analyzing": {
+    "title": "Ouvindo sua criança interior...",
+    "scanning": "Escaneando padrões da infância...",
+    "mapping": "Mapeando feridas emocionais...",
+    "integrating": "Encontrando sua criança interior...",
+    "complete": "Sua criança interior falou!"
+  },
+  "result": {
+    "your_type": "Seu Arquétipo da Criança Interior",
+    "wound_dimensions": "Dimensões das Feridas",
+    "dimension_scores": "Pontuações das Dimensões",
+    "key_traits": "Padrões Centrais",
+    "healing_affirmation": "Afirmação de Cura",
+    "percentile": "Apenas {pct} das pessoas têm o arquétipo {type}",
+    "moreTests": "Explorar Mais",
+    "share": "Compartilhe Seus Resultados"
+  },
+  "metric": {
+    "abandonment": "Abandono",
+    "shame": "Vergonha",
+    "trust": "Confiança",
+    "autonomy": "Autonomia",
+    "healing": "Cura"
+  },
+  "type": {
+    "abandonedChild": {
+      "name": "A Criança Abandonada",
+      "tagline": "Um coração que aprendeu que amor significa eventualmente ser deixado",
+      "description": "Sua criança interior carrega a ferida do abandono. Uma experiência precoce de perda, ausência ou indisponibilidade emocional ensinou que o amor não é confiável. Você pode se apegar a relacionamentos, buscar reasseguramento constante ou sair preventivamente antes de ser deixado/a. Sua cura começa quando você aprende que seu valor não é determinado pela capacidade de alguém de ficar.",
+      "trait1": "Medo de ser deixado/a ou substituído/a",
+      "trait2": "Busca de reasseguramento constante",
+      "trait3": "Dificuldade com independência",
+      "prompt": "Querida criança, você não é demais. Você nunca foi a razão pela qual alguém partiu. Você merece um amor que fica."
+    },
+    "criticizedChild": {
+      "name": "A Criança Criticada",
+      "tagline": "Uma alma que aprendeu que amor deve ser conquistado através da perfeição",
+      "description": "Sua criança interior carrega a ferida da crítica. Crescendo, a aprovação era condicional — ligada à conquista, comportamento ou atender padrões impossíveis. Você desenvolveu um crítico interno severo que impulsiona o perfeccionismo e a autodúvida. Sua cura começa quando você percebe que sempre foi suficiente, mesmo antes de conquistar qualquer coisa.",
+      "trait1": "Crítico interno severo",
+      "trait2": "Perfeccionismo e excesso de realizações",
+      "trait3": "Medo de cometer erros",
+      "prompt": "Querida criança, você não precisa ser perfeito/a para ser amado/a. Você sempre foi suficiente, exatamente como é."
+    },
+    "invisibleChild": {
+      "name": "A Criança Invisível",
+      "tagline": "Uma presença que aprendeu a ocupar o mínimo espaço possível",
+      "description": "Sua criança interior carrega a ferida da invisibilidade. Você aprendeu que suas necessidades, sentimentos e opiniões não importavam — ou que expressá-los causava problemas. Você se tornou mestre em ler ambientes, agradar os outros e desaparecer. Sua cura começa quando você pratica ocupar espaço sem se desculpar.",
+      "trait1": "Agradar os outros e auto-minimização",
+      "trait2": "Dificuldade em expressar necessidades",
+      "trait3": "Sentir-se invisível ou não ouvido/a",
+      "prompt": "Querida criança, você tem permissão para ser visto/a. Sua voz importa. Você não precisa encolher para estar seguro/a."
+    },
+    "parentifiedChild": {
+      "name": "A Criança Parentificada",
+      "tagline": "Uma criança que cresceu rápido demais e esqueceu como brincar",
+      "description": "Sua criança interior carrega a ferida da infância perdida. Você se tornou o cuidador — emocional ou praticamente — da sua família cedo demais. Você aprendeu que ser responsável, maduro/a e altruísta era a forma de sobreviver. Sua cura começa quando você se dá permissão para ser cuidado/a, brincar e descansar.",
+      "trait1": "Hiper-responsabilidade pelos outros",
+      "trait2": "Dificuldade em receber ajuda ou cuidado",
+      "trait3": "Culpa ao priorizar a si mesmo/a",
+      "prompt": "Querida criança, nunca foi seu trabalho carregar a família. Você tem permissão para largar o peso e apenas ser uma criança."
+    },
+    "overprotectedChild": {
+      "name": "A Criança Superprotegida",
+      "tagline": "Um espírito envolto em segurança que se tornou uma gaiola",
+      "description": "Sua criança interior carrega a ferida da superproteção. Embora seus cuidadores tivessem boas intenções, a blindagem constante ensinou que o mundo é perigoso e você não pode lidar com ele. Você luta com risco, independência e confiar na sua própria força. Sua cura começa quando você dá pequenos passos corajosos e prova a si mesmo/a que é capaz.",
+      "trait1": "Ansiedade e evitação de riscos",
+      "trait2": "Dificuldade com independência",
+      "trait3": "Necessidade de segurança e previsibilidade",
+      "prompt": "Querida criança, o mundo não é tão assustador quanto te disseram. Você é mais corajoso/a e forte do que imagina."
+    },
+    "playfulChild": {
+      "name": "A Criança Brincalhona",
+      "tagline": "Um coração que lembra como se maravilhar, criar e rir",
+      "description": "Sua criança interior está notavelmente conectada e viva. Você manteve (ou reconectou com) sua capacidade de alegria, espontaneidade, criatividade e expressão genuína. Isso não significa que você não enfrentou desafios — significa que encontrou formas de honrar a necessidade da sua criança interior por brincadeira e autenticidade. Continue nutrindo esse presente.",
+      "trait1": "Autenticidade emocional",
+      "trait2": "Capacidade para alegria e criatividade",
+      "trait3": "Auto-expressão saudável",
+      "prompt": "Querida criança interior, obrigado/a por permanecer vivo/a em mim. Prometo continuar brincando, criando e rindo com você."
+    }
+  },
+  "share": {
+    "text": "Meu arquétipo da criança interior é '{type}'! Qual é o seu?"
+  },
+  "game": {
+    "back": "Início DopaBrain"
+  }
+}

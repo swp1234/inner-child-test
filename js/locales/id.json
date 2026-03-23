@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "page_title": "Tes Anak Batin - Sembuhkan Luka Masa Kecil Anda | DopaBrain",
+    "description": "Luka masa kecil apa yang membentuk kehidupan dewasa Anda? Temukan arketipe anak batin Anda: Ditinggalkan, Dikritik, Tidak Terlihat, Dipaksa Dewasa, Terlalu Dilindungi, atau Ceria. 8 pertanyaan, gratis.",
+    "keywords": "tes anak batin, kuis anak batin, tes luka masa kecil, penyembuhan anak batin, arketipe anak batin, tes trauma masa kecil, kuis reparenting, kerja anak batin",
+    "og_title": "Tes Anak Batin - Sembuhkan Luka Masa Kecil Anda",
+    "og_description": "8 pertanyaan mengungkap arketipe anak batin Anda dan afirmasi penyembuhan yang dipersonalisasi.",
+    "twitter_title": "Tes Anak Batin - Sembuhkan Luka Masa Kecil Anda",
+    "twitter_description": "8 pertanyaan mengungkap arketipe anak batin Anda!"
+  },
+  "app": {
+    "skipLink": "Lewati ke konten utama",
+    "loading": "Memuat..."
+  },
+  "intro": {
+    "title": "Tes Anak Batin",
+    "subtitle": "Sembuhkan Luka Masa Kecil Anda",
+    "social_proof": "orang telah menjelajahi",
+    "feature_types": "6 Tipe Anak Batin",
+    "feature_questions": "8 Skenario",
+    "feature_metrics": "5 Dimensi Luka",
+    "time_estimate": "Membutuhkan waktu sekitar 2 menit"
+  },
+  "carousel": {
+    "abandonedChild": "Anak yang Ditinggalkan",
+    "criticizedChild": "Anak yang Dikritik",
+    "invisibleChild": "Anak yang Tidak Terlihat",
+    "parentifiedChild": "Anak yang Dipaksa Dewasa",
+    "overprotectedChild": "Anak yang Terlalu Dilindungi",
+    "playfulChild": "Anak yang Ceria"
+  },
+  "button": {
+    "start": "Temui Anak Batin Anda",
+    "retry": "Coba Lagi",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Salin Tautan"
+  },
+  "question": {
+    "0": "Ketika seseorang yang Anda sayangi tidak membalas pesan untuk waktu yang lama, pikiran pertama Anda adalah?",
+    "0a": "Mereka mungkin akan meninggalkan saya — saya harus menghubungi terlebih dahulu",
+    "0b": "Saya mungkin melakukan kesalahan yang membuat mereka kesal",
+    "0c": "Tidak apa-apa, saya tidak ingin mengganggu mereka",
+    "0d": "Saya harus memeriksa apakah mereka baik-baik saja — mereka mungkin butuh bantuan",
+    "0e": "Sesuatu yang buruk pasti telah terjadi — saya merasa cemas",
+    "0f": "Mereka mungkin sibuk — saya akan melakukan sesuatu yang menyenangkan sementara itu",
+
+    "1": "Ketika Anda menerima pujian yang tulus, biasanya Anda:",
+    "1a": "Merasa curiga — mereka mungkin menginginkan sesuatu dari saya",
+    "1b": "Segera memikirkan cara untuk menjadi lebih baik lagi",
+    "1c": "Mengalihkannya — 'oh, itu bukan apa-apa'",
+    "1d": "Mengucapkan terima kasih tetapi merasa tidak nyaman menjadi fokus",
+    "1e": "Merasa kewalahan dan tidak yakin bagaimana merespons",
+    "1f": "Menerimanya dengan hangat dan benar-benar merasa senang",
+
+    "2": "Pada hari libur langka tanpa tanggung jawab sama sekali:",
+    "2a": "Merasa cemas sendirian dan menghubungi seseorang",
+    "2b": "Menggunakannya untuk perbaikan diri atau mengejar tugas",
+    "2c": "Bertanya kepada orang lain apa yang ingin mereka lakukan",
+    "2d": "Mengejar hal-hal yang saya tunda untuk orang lain",
+    "2e": "Tinggal di rumah di mana aman dan nyaman",
+    "2f": "Melakukan sesuatu yang spontan dan kreatif hanya untuk bersenang-senang",
+
+    "3": "Ketika Anda membuat kesalahan yang mencolok di tempat kerja atau sekolah:",
+    "3a": "Takut semua orang akan melihat saya berbeda dan menjauh",
+    "3b": "Menyalahkan diri sendiri dan memutar ulang momen itu tanpa henti",
+    "3c": "Meminta maaf berlebihan meskipun itu kecil",
+    "3d": "Segera memperbaikinya dan juga masalah semua orang",
+    "3e": "Merasa lumpuh dan takut untuk mencoba lagi",
+    "3f": "Menertawakannya, belajar darinya, dan melanjutkan",
+
+    "4": "Dalam hubungan dekat, ketakutan terdalam Anda adalah:",
+    "4a": "Ditinggalkan atau digantikan oleh seseorang yang lebih baik",
+    "4b": "Tidak cukup baik untuk orang lain",
+    "4c": "Menjadi beban atau mengambil terlalu banyak ruang",
+    "4d": "Mengecewakan orang atau gagal melindungi mereka",
+    "4e": "Terluka atau hubungan terasa tidak aman",
+    "4f": "Kehilangan kegembiraan dan keceriaan dalam koneksi",
+
+    "5": "Bagaimana Anda biasanya menangani kebutuhan emosional Anda sendiri?",
+    "5a": "Saya mencari orang lain untuk memenuhinya — sendirian terasa menakutkan",
+    "5b": "Saya meneruskannya — memiliki kebutuhan terasa seperti kelemahan",
+    "5c": "Saya meminimalkannya — kebutuhan orang lain lebih penting",
+    "5d": "Saya merawat semua orang terlebih dahulu, kemudian mungkin diri saya sendiri",
+    "5e": "Saya memenuhinya hanya dengan cara yang terkendali dan dapat diprediksi",
+    "5f": "Saya mendengarkan apa yang saya butuhkan dan menghormatinya secara alami",
+
+    "6": "Ketika konflik muncul dalam hubungan dekat:",
+    "6a": "Panik dan melakukan apapun untuk mencegah mereka pergi",
+    "6b": "Berasumsi itu salah saya dan mencoba menjadi sempurna ke depannya",
+    "6c": "Diam dan menarik diri untuk menjaga kedamaian",
+    "6d": "Mencoba menengahi dan memperbaiki segalanya untuk semua orang",
+    "6e": "Membeku dan ingin mundur ke tempat aman",
+    "6f": "Mengatasinya dengan jujur dan percaya diri yang tenang",
+
+    "7": "Larut malam, pikiran yang paling sering mengunjungi Anda adalah:",
+    "7a": "Apakah saya benar-benar dicintai, atau semua orang akhirnya akan pergi?",
+    "7b": "Saya masih belum cukup — saya perlu lebih berusaha",
+    "7c": "Apakah ada yang benar-benar melihat diri saya yang sebenarnya?",
+    "7d": "Saya kelelahan membawa beban semua orang",
+    "7e": "Dunia terasa luar biasa dan tidak aman",
+    "7f": "Hidup adalah petualangan dan saya berkembang setiap hari"
+  },
+  "analyzing": {
+    "title": "Mendengarkan anak batin Anda...",
+    "scanning": "Memindai pola masa kecil...",
+    "mapping": "Memetakan luka emosional...",
+    "integrating": "Menemukan anak batin Anda...",
+    "complete": "Anak batin Anda telah berbicara!"
+  },
+  "result": {
+    "your_type": "Arketipe Anak Batin Anda",
+    "wound_dimensions": "Dimensi Luka",
+    "dimension_scores": "Skor Dimensi",
+    "key_traits": "Pola Inti",
+    "healing_affirmation": "Afirmasi Penyembuhan",
+    "percentile": "Hanya {pct} orang yang memiliki arketipe {type}",
+    "moreTests": "Jelajahi Lebih Lanjut",
+    "share": "Bagikan Hasil Anda"
+  },
+  "metric": {
+    "abandonment": "Pengabaian",
+    "shame": "Rasa Malu",
+    "trust": "Kepercayaan",
+    "autonomy": "Otonomi",
+    "healing": "Penyembuhan"
+  },
+  "type": {
+    "abandonedChild": {
+      "name": "Anak yang Ditinggalkan",
+      "tagline": "Hati yang belajar bahwa cinta berarti akhirnya ditinggalkan",
+      "description": "Anak batin Anda membawa luka pengabaian. Pengalaman awal kehilangan, ketidakhadiran, atau ketidaktersediaan emosional mengajarkan bahwa cinta tidak dapat diandalkan. Anda mungkin bergantung pada hubungan, mencari jaminan terus-menerus, atau pergi terlebih dahulu sebelum ditinggalkan. Penyembuhan Anda dimulai ketika Anda belajar bahwa nilai Anda tidak ditentukan oleh kemampuan orang lain untuk tinggal.",
+      "trait1": "Takut ditinggalkan atau digantikan",
+      "trait2": "Mencari jaminan terus-menerus",
+      "trait3": "Kesulitan dengan kemandirian",
+      "prompt": "Anak kecil yang terkasih, kamu tidak berlebihan. Kamu tidak pernah menjadi alasan siapa pun pergi. Kamu layak mendapat cinta yang bertahan."
+    },
+    "criticizedChild": {
+      "name": "Anak yang Dikritik",
+      "tagline": "Jiwa yang belajar bahwa cinta harus diraih melalui kesempurnaan",
+      "description": "Anak batin Anda membawa luka kritik. Saat tumbuh, persetujuan bersyarat — terikat pada pencapaian, perilaku, atau memenuhi standar yang mustahil. Anda mengembangkan kritikus internal yang keras yang mendorong perfeksionisme dan keraguan diri. Penyembuhan Anda dimulai ketika Anda menyadari bahwa Anda selalu cukup, bahkan sebelum mencapai apapun.",
+      "trait1": "Kritikus internal yang keras",
+      "trait2": "Perfeksionisme dan pencapaian berlebihan",
+      "trait3": "Takut membuat kesalahan",
+      "prompt": "Anak kecil yang terkasih, kamu tidak harus sempurna untuk dicintai. Kamu selalu cukup, persis seperti apa adanya."
+    },
+    "invisibleChild": {
+      "name": "Anak yang Tidak Terlihat",
+      "tagline": "Kehadiran yang belajar mengambil ruang sesedikit mungkin",
+      "description": "Anak batin Anda membawa luka ketidakterlihatkan. Anda belajar bahwa kebutuhan, perasaan, dan pendapat Anda tidak penting — atau mengekspresikannya menyebabkan masalah. Anda menjadi ahli dalam membaca ruangan, menyenangkan orang lain, dan menghilang. Penyembuhan Anda dimulai ketika Anda berlatih mengambil ruang tanpa meminta maaf.",
+      "trait1": "Menyenangkan orang dan meminimalkan diri",
+      "trait2": "Kesulitan mengekspresikan kebutuhan",
+      "trait3": "Merasa tidak terlihat atau tidak didengar",
+      "prompt": "Anak kecil yang terkasih, kamu diperbolehkan untuk terlihat. Suaramu penting. Kamu tidak harus mengecil untuk aman."
+    },
+    "parentifiedChild": {
+      "name": "Anak yang Dipaksa Dewasa",
+      "tagline": "Anak yang tumbuh terlalu cepat dan lupa cara bermain",
+      "description": "Anak batin Anda membawa luka masa kecil yang hilang. Anda menjadi pengasuh — secara emosional atau praktis — untuk keluarga Anda terlalu dini. Anda belajar bahwa bertanggung jawab, dewasa, dan tidak egois adalah cara untuk bertahan. Penyembuhan Anda dimulai ketika Anda memberi diri Anda izin untuk dirawat, bermain, dan beristirahat.",
+      "trait1": "Tanggung jawab berlebihan untuk orang lain",
+      "trait2": "Kesulitan menerima bantuan atau perawatan",
+      "trait3": "Rasa bersalah saat memprioritaskan diri sendiri",
+      "prompt": "Anak kecil yang terkasih, tidak pernah menjadi tugasmu untuk membawa keluarga. Kamu diperbolehkan untuk meletakkan beban dan hanya menjadi anak."
+    },
+    "overprotectedChild": {
+      "name": "Anak yang Terlalu Dilindungi",
+      "tagline": "Roh yang dibungkus keamanan yang menjadi sangkar",
+      "description": "Anak batin Anda membawa luka perlindungan berlebihan. Meskipun pengasuh Anda bermaksud baik, perlindungan terus-menerus mengajarkan bahwa dunia berbahaya dan Anda tidak bisa menanganinya. Anda berjuang dengan risiko, kemandirian, dan mempercayai kekuatan Anda sendiri. Penyembuhan Anda dimulai ketika Anda mengambil langkah-langkah kecil yang berani dan membuktikan pada diri sendiri bahwa Anda mampu.",
+      "trait1": "Kecemasan dan penghindaran risiko",
+      "trait2": "Kesulitan dengan kemandirian",
+      "trait3": "Kebutuhan akan keamanan dan prediktabilitas",
+      "prompt": "Anak kecil yang terkasih, dunia tidak seseram yang mereka katakan. Kamu lebih berani dan kuat dari yang kamu tahu."
+    },
+    "playfulChild": {
+      "name": "Anak yang Ceria",
+      "tagline": "Hati yang ingat bagaimana bertanya-tanya, berkreasi, dan tertawa",
+      "description": "Anak batin Anda sangat terhubung dan hidup. Anda telah mempertahankan (atau terhubung kembali dengan) kapasitas Anda untuk kegembiraan, spontanitas, kreativitas, dan ekspresi diri yang tulus. Ini tidak berarti Anda belum menghadapi tantangan — ini berarti Anda telah menemukan cara untuk menghormati kebutuhan anak batin Anda untuk bermain dan keaslian. Terus pelihara karunia ini.",
+      "trait1": "Keaslian emosional",
+      "trait2": "Kapasitas untuk kegembiraan dan kreativitas",
+      "trait3": "Ekspresi diri yang sehat",
+      "prompt": "Anak batin yang terkasih, terima kasih telah tetap hidup dalam diriku. Aku berjanji untuk terus bermain, berkreasi, dan tertawa bersamamu."
+    }
+  },
+  "share": {
+    "text": "Arketipe anak batin saya adalah '{type}'! Apa milik Anda?"
+  },
+  "game": {
+    "back": "Beranda DopaBrain"
+  }
+}
