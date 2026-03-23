@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "page_title": "Inner Child Test - Heal Your Childhood Wounds | DopaBrain",
+    "description": "What childhood wound shapes your adult life? Discover your inner child archetype: Abandoned, Criticized, Invisible, Parentified, Overprotected, or Playful. 8 questions, free.",
+    "keywords": "inner child test, inner child quiz, childhood wound test, inner child healing, inner child archetype, childhood trauma test, reparenting quiz, inner child work",
+    "og_title": "Inner Child Test - Heal Your Childhood Wounds",
+    "og_description": "8 questions reveal your inner child archetype and personalized healing affirmations.",
+    "twitter_title": "Inner Child Test - Heal Your Childhood Wounds",
+    "twitter_description": "8 questions reveal your inner child archetype!"
+  },
+  "app": {
+    "skipLink": "Skip to main content",
+    "loading": "Loading..."
+  },
+  "intro": {
+    "title": "Inner Child Test",
+    "subtitle": "Heal Your Childhood Wounds",
+    "social_proof": "people have explored",
+    "feature_types": "6 Inner Child Types",
+    "feature_questions": "8 Scenarios",
+    "feature_metrics": "5 Wound Dimensions",
+    "time_estimate": "Takes about 2 minutes"
+  },
+  "carousel": {
+    "abandonedChild": "Abandoned Child",
+    "criticizedChild": "Criticized Child",
+    "invisibleChild": "Invisible Child",
+    "parentifiedChild": "Parentified Child",
+    "overprotectedChild": "Overprotected Child",
+    "playfulChild": "Playful Child"
+  },
+  "button": {
+    "start": "Meet Your Inner Child",
+    "retry": "Try Again",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copy Link"
+  },
+  "question": {
+    "0": "When someone you care about doesn't text back for a long time, your first thought is?",
+    "0a": "They're probably going to leave me — I should reach out first",
+    "0b": "I probably did something wrong to upset them",
+    "0c": "It's fine, I don't want to bother them anyway",
+    "0d": "I should check if they're okay — they might need help",
+    "0e": "Something bad must have happened — I feel anxious",
+    "0f": "They're probably busy — I'll do something fun meanwhile",
+
+    "1": "When you receive a genuine compliment, you typically:",
+    "1a": "Feel suspicious — they probably want something from me",
+    "1b": "Immediately think of ways I could be even better",
+    "1c": "Deflect it — 'oh, it was nothing really'",
+    "1d": "Thank them but feel uncomfortable being the focus",
+    "1e": "Feel overwhelmed and unsure how to respond",
+    "1f": "Accept it warmly and genuinely feel good about it",
+
+    "2": "On a rare free day with absolutely no responsibilities:",
+    "2a": "Feel anxious being alone and reach out to someone",
+    "2b": "Use it for self-improvement or catching up on tasks",
+    "2c": "Ask others what they'd like to do",
+    "2d": "Catch up on things I've been putting off for others",
+    "2e": "Stay home where it's safe and comfortable",
+    "2f": "Do something spontaneous and creative just for fun",
+
+    "3": "When you make a noticeable mistake at work or school:",
+    "3a": "Fear everyone will see me differently and pull away",
+    "3b": "Beat myself up and replay the moment endlessly",
+    "3c": "Apologize profusely even if it was minor",
+    "3d": "Quickly fix it and everyone else's problems too",
+    "3e": "Feel paralyzed and afraid to try again",
+    "3f": "Laugh it off, learn from it, and move forward",
+
+    "4": "In close relationships, your deepest fear is:",
+    "4a": "Being abandoned or replaced by someone better",
+    "4b": "Not being good enough for the other person",
+    "4c": "Being a burden or taking up too much space",
+    "4d": "Letting people down or failing to protect them",
+    "4e": "Being hurt or the relationship feeling unsafe",
+    "4f": "Losing the joy and playfulness in the connection",
+
+    "5": "How do you typically handle your own emotional needs?",
+    "5a": "I look to others to meet them — being alone feels scary",
+    "5b": "I push through — having needs feels like weakness",
+    "5c": "I minimize them — other people's needs matter more",
+    "5d": "I take care of everyone else first, then maybe myself",
+    "5e": "I meet them in controlled, predictable ways only",
+    "5f": "I listen to what I need and honor it naturally",
+
+    "6": "When conflict arises in a close relationship:",
+    "6a": "Panic and do anything to prevent them from leaving",
+    "6b": "Assume it's my fault and try to be perfect going forward",
+    "6c": "Go quiet and withdraw to keep the peace",
+    "6d": "Try to mediate and fix everything for everyone",
+    "6e": "Freeze up and want to retreat to safety",
+    "6f": "Address it honestly and with calm confidence",
+
+    "7": "Late at night, the thought that visits you most often is:",
+    "7a": "Am I truly loved, or will everyone eventually leave?",
+    "7b": "I'm still not enough — I need to try harder",
+    "7c": "Does anyone really see the real me?",
+    "7d": "I'm exhausted from carrying everyone else's weight",
+    "7e": "The world feels overwhelming and unsafe",
+    "7f": "Life is an adventure and I'm growing every day"
+  },
+  "analyzing": {
+    "title": "Listening to your inner child...",
+    "scanning": "Scanning childhood patterns...",
+    "mapping": "Mapping emotional wounds...",
+    "integrating": "Finding your inner child...",
+    "complete": "Your inner child has spoken!"
+  },
+  "result": {
+    "your_type": "Your Inner Child Archetype",
+    "wound_dimensions": "Wound Dimensions",
+    "dimension_scores": "Dimension Scores",
+    "key_traits": "Core Patterns",
+    "healing_affirmation": "Healing Affirmation",
+    "percentile": "Only {pct} of people have the {type} archetype",
+    "moreTests": "Explore More",
+    "share": "Share Your Results"
+  },
+  "metric": {
+    "abandonment": "Abandonment",
+    "shame": "Shame",
+    "trust": "Trust",
+    "autonomy": "Autonomy",
+    "healing": "Healing"
+  },
+  "type": {
+    "abandonedChild": {
+      "name": "The Abandoned Child",
+      "tagline": "A heart that learned love means eventually being left",
+      "description": "Your inner child carries the wound of abandonment. An early experience of loss, absence, or emotional unavailability taught you that love is unreliable. You may cling to relationships, seek constant reassurance, or preemptively leave before being left. Your healing begins when you learn that your worth isn't determined by someone else's ability to stay.",
+      "trait1": "Fear of being left or replaced",
+      "trait2": "Seeking constant reassurance",
+      "trait3": "Difficulty with independence",
+      "prompt": "Dear little one, you are not too much. You were never the reason anyone left. You deserve love that stays."
+    },
+    "criticizedChild": {
+      "name": "The Criticized Child",
+      "tagline": "A soul that learned love must be earned through perfection",
+      "description": "Your inner child carries the wound of criticism. Growing up, approval was conditional — tied to achievement, behavior, or meeting impossible standards. You developed a harsh inner critic that drives perfectionism and self-doubt. Your healing begins when you realize you were always enough, even before you accomplished anything.",
+      "trait1": "Harsh inner critic",
+      "trait2": "Perfectionism and overachieving",
+      "trait3": "Fear of making mistakes",
+      "prompt": "Dear little one, you don't have to be perfect to be loved. You were always enough, exactly as you are."
+    },
+    "invisibleChild": {
+      "name": "The Invisible Child",
+      "tagline": "A presence that learned to take up as little space as possible",
+      "description": "Your inner child carries the wound of invisibility. You learned that your needs, feelings, and opinions didn't matter — or that expressing them caused problems. You became a master at reading rooms, pleasing others, and disappearing. Your healing begins when you practice taking up space unapologetically.",
+      "trait1": "People-pleasing and self-minimizing",
+      "trait2": "Difficulty expressing needs",
+      "trait3": "Feeling unseen or unheard",
+      "prompt": "Dear little one, you are allowed to be seen. Your voice matters. You don't have to shrink to be safe."
+    },
+    "parentifiedChild": {
+      "name": "The Parentified Child",
+      "tagline": "A child who grew up too fast and forgot how to play",
+      "description": "Your inner child carries the wound of lost childhood. You became the caretaker — emotionally or practically — for your family too early. You learned that being responsible, mature, and selfless was the way to survive. Your healing begins when you give yourself permission to be taken care of, to play, and to rest.",
+      "trait1": "Hyper-responsibility for others",
+      "trait2": "Difficulty receiving help or care",
+      "trait3": "Guilt when prioritizing yourself",
+      "prompt": "Dear little one, it was never your job to carry the family. You're allowed to put the weight down and just be a kid."
+    },
+    "overprotectedChild": {
+      "name": "The Overprotected Child",
+      "tagline": "A spirit wrapped in safety that became a cage",
+      "description": "Your inner child carries the wound of overprotection. While your caregivers meant well, the constant shielding taught you that the world is dangerous and you can't handle it. You struggle with risk, independence, and trusting your own strength. Your healing begins when you take small brave steps and prove to yourself that you are capable.",
+      "trait1": "Anxiety and risk avoidance",
+      "trait2": "Difficulty with independence",
+      "trait3": "Need for safety and predictability",
+      "prompt": "Dear little one, the world isn't as scary as they told you. You are braver and stronger than you know."
+    },
+    "playfulChild": {
+      "name": "The Playful Child",
+      "tagline": "A heart that remembers how to wonder, create, and laugh",
+      "description": "Your inner child is remarkably connected and alive. You've maintained (or reconnected with) your capacity for joy, spontaneity, creativity, and genuine self-expression. This doesn't mean you haven't faced challenges — it means you've found ways to honor your inner child's need for play and authenticity. Keep nurturing this gift.",
+      "trait1": "Emotional authenticity",
+      "trait2": "Capacity for joy and creativity",
+      "trait3": "Healthy self-expression",
+      "prompt": "Dear inner child, thank you for staying alive in me. I promise to keep playing, creating, and laughing with you."
+    }
+  },
+  "share": {
+    "text": "My inner child archetype is '{type}'! What's yours?"
+  },
+  "game": {
+    "back": "DopaBrain Home"
+  }
+}
