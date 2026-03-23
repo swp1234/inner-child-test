@@ -206,6 +206,11 @@
     showResult(type, typeScores, dimScores, maxDim) {
       this.show('result');
 
+      // Store for download
+      this.currentResultType = type;
+      this.currentResultTypeData = CHILD_TYPES[type];
+      this.currentDimPcts = {};
+
       const typeName = this.t(`type.${type}.name`);
       document.getElementById('result-type-name').textContent = typeName;
       document.getElementById('result-tagline').textContent = this.t(`type.${type}.tagline`);
@@ -236,6 +241,7 @@
         const val = document.getElementById(`val-${key}`);
         if (bar && val) {
           const pct = Math.round((dimScores[key] / maxDim) * 100);
+          this.currentDimPcts[key] = pct;
           bar.style.width = pct + '%';
           val.textContent = pct + '%';
         }
@@ -345,6 +351,9 @@
       const encoded = encodeURIComponent(text + '\n' + url);
 
       switch (platform) {
+        case 'download':
+          this.downloadResultCard();
+          break;
         case 'twitter':
           window.open('https://twitter.com/intent/tweet?text=' + encoded, '_blank');
           break;
@@ -369,6 +378,28 @@
       if (typeof gtag === 'function') {
         gtag('event', 'share', { method: platform, content_type: 'inner_child_test' });
       }
+    }
+
+    downloadResultCard() {
+      if (!this.currentResultType || typeof ResultCard === 'undefined') return;
+
+      const typeName = this.t(`type.${this.currentResultType}.name`);
+      const typeEmoji = this.currentResultTypeData.emoji || '🧸';
+
+      const dimensions = DIMENSION_KEYS.map(key => ({
+        label: this.t(`metric.${key}`),
+        pct: this.currentDimPcts[key] || 0,
+        color: '#e8913a'
+      }));
+
+      ResultCard.download({
+        appName: 'Inner Child Test',
+        typeName: typeName,
+        typeEmoji: typeEmoji,
+        dimensions: dimensions,
+        primaryColor: '#e8913a',
+        tagline: 'dopabrain.com/inner-child-test'
+      });
     }
 
     restart() {
