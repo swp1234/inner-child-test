@@ -97,6 +97,9 @@
       this.hideLoader();
       if (typeof gtag === 'function') {
         gtag('event', 'page_view', { page_title: 'Inner Child Test' });
+        setTimeout(() => {
+          gtag('event', 'page_engage', { event_category: 'inner_child_test', engagement_time_msec: 5000 });
+        }, 5000);
       }
     }
 
