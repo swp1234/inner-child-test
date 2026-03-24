@@ -94,6 +94,15 @@
       this.cacheDOM();
       this.bindEvents();
       this.updateSocialProof();
+      this.hideLoader();
+      if (typeof gtag === 'function') {
+        gtag('event', 'page_view', { page_title: 'Inner Child Test' });
+      }
+    }
+
+    hideLoader() {
+      const loader = document.getElementById('app-loader');
+      if (loader) loader.style.display = 'none';
     }
 
     cacheDOM() {
@@ -138,6 +147,9 @@
       this.answers = [];
       this.show('question');
       this.renderQuestion();
+      if (typeof gtag === 'function') {
+        gtag('event', 'quiz_start', { event_category: 'inner_child_test' });
+      }
     }
 
     renderQuestion() {

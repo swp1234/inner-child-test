@@ -286,30 +286,20 @@
         </footer>
     </div>
 
-    <script src="js/i18n.js"></script>
+    <script src="js/i18n.js" defer></script>
     <script src="/portal/js/result-card.js" defer></script>
     <script>
-    // i18n init + app-loader hide
-    (function() {
+    // i18n init + theme + lang selector
+    document.addEventListener('DOMContentLoaded', function() {
         try {
             if (window.i18n) {
                 window.__i18n = window.i18n;
                 window.i18n.init().then(function() {
-                    var loader = document.getElementById('app-loader');
-                    if (loader) loader.style.display = 'none';
-                    document.getElementById('current-lang-label').textContent = window.i18n.getCurrentLanguage().toUpperCase();
-                }).catch(function() {
-                    var loader = document.getElementById('app-loader');
-                    if (loader) loader.style.display = 'none';
-                });
-            } else {
-                var loader = document.getElementById('app-loader');
-                if (loader) loader.style.display = 'none';
+                    var el = document.getElementById('current-lang-label');
+                    if (el) el.textContent = window.i18n.getCurrentLanguage().toUpperCase();
+                }).catch(function() {});
             }
-        } catch(e) {
-            var loader = document.getElementById('app-loader');
-            if (loader) loader.style.display = 'none';
-        }
+        } catch(e) {}
 
         // Theme toggle
         var toggle = document.getElementById('theme-toggle');
@@ -329,18 +319,19 @@
             e.stopPropagation();
             langDropdown.classList.toggle('open');
         });
-        document.addEventListener('click', function() { langDropdown.classList.remove('open'); });
+        document.addEventListener('click', function() { if (langDropdown) langDropdown.classList.remove('open'); });
         document.querySelectorAll('.lang-option').forEach(function(btn) {
             btn.addEventListener('click', function() {
                 var lang = btn.getAttribute('data-lang');
                 if (window.i18n) window.i18n.setLanguage(lang);
-                document.getElementById('current-lang-label').textContent = lang.toUpperCase();
-                langDropdown.classList.remove('open');
+                var el = document.getElementById('current-lang-label');
+                if (el) el.textContent = lang.toUpperCase();
+                if (langDropdown) langDropdown.classList.remove('open');
             });
         });
-    })();
+    });
     </script>
-    <script src="js/app.js"></script>
+    <script src="js/app.js" defer></script>
     <script src="/portal/js/cross-promo.js" defer></script>
 </body>
 </html>
