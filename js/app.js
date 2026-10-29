@@ -82,6 +82,24 @@
     parentifiedChild: 14, overprotectedChild: 15, playfulChild: 15
   };
 
+
+  function preserveLanguageLinks() {
+    try {
+      var params = new URLSearchParams(window.location.search);
+      var lang = params.get('lang');
+      if (!lang) return;
+      document.querySelectorAll('a[href^="/"]').forEach(function(a) {
+        var href = a.getAttribute('href');
+        if (!href) return;
+        var url = new URL(href, window.location.origin);
+        if (!url.searchParams.has('lang')) {
+          url.searchParams.set('lang', lang);
+          a.setAttribute('href', url.pathname + url.search + url.hash);
+        }
+      });
+    } catch (e) {}
+  }
+
   class InnerChildApp {
     constructor() {
       this.current = 0;
@@ -94,6 +112,7 @@
       this.cacheDOM();
       this.bindEvents();
       this.updateSocialProof();
+      preserveLanguageLinks();
       this.hideLoader();
       if (typeof gtag === 'function') {
         gtag('event', 'page_view', { page_title: 'Inner Child Test' });
@@ -132,12 +151,7 @@
     }
 
     updateSocialProof() {
-      const el = document.getElementById('social-proof-count');
-      if (el) {
-        const base = 24837;
-        const days = Math.floor((Date.now() - new Date('2026-03-23').getTime()) / 86400000);
-        el.textContent = (base + Math.max(0, days) * 47 + Math.floor(Math.random() * 20)).toLocaleString();
-      }
+      // Honest trust note - no synthetic counters
     }
 
     show(name) {
@@ -241,12 +255,11 @@
         affirmationText.textContent = this.t(`type.${type}.prompt`);
       }
 
-      // Percentile
+      // Honest reflection archetype note
       const pctEl = document.getElementById('result-percentile');
       if (pctEl) {
-        const pct = PERCENTILES[type] || 16;
         pctEl.textContent = this.t('result.percentile')
-          .replace('{pct}', pct + '%')
+          .replace('{pct}', '')
           .replace('{type}', typeName);
       }
 
