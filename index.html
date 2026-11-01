@@ -302,7 +302,11 @@
         document.querySelectorAll('.lang-option').forEach(function(btn) {
             btn.addEventListener('click', function() {
                 var lang = btn.getAttribute('data-lang');
-                if (window.i18n) window.i18n.setLanguage(lang);
+                if (window.i18n) {
+                    window.i18n.setLanguage(lang).then(function() {
+                        if (typeof window.preserveInnerChildLinks === 'function') window.preserveInnerChildLinks();
+                    });
+                }
                 var el = document.getElementById('current-lang-label');
                 if (el) el.textContent = lang.toUpperCase();
                 if (langDropdown) langDropdown.classList.remove('open');

@@ -85,20 +85,51 @@
 
   function preserveLanguageLinks() {
     try {
-      var params = new URLSearchParams(window.location.search);
-      var lang = params.get('lang');
-      if (!lang) return;
+      var lang = (window.i18n && typeof window.i18n.getCurrentLanguage === 'function')
+        ? window.i18n.getCurrentLanguage()
+        : (new URLSearchParams(window.location.search).get('lang') || 'ko');
+
+      var currentUrl = new URL(window.location.href);
+      if (currentUrl.searchParams.get('lang') !== lang) {
+        currentUrl.searchParams.set('lang', lang);
+        window.history.replaceState({}, '', currentUrl.pathname + '?' + currentUrl.searchParams.toString());
+      }
+
       document.querySelectorAll('a[href^="/"]').forEach(function(a) {
         var href = a.getAttribute('href');
         if (!href) return;
         var url = new URL(href, window.location.origin);
-        if (!url.searchParams.has('lang')) {
-          url.searchParams.set('lang', lang);
-          a.setAttribute('href', url.pathname + url.search + url.hash);
+        url.searchParams.set('lang', lang);
+        if (a.classList.contains('related-card') || a.closest('.related-section') || a.closest('.seo-links')) {
+          url.searchParams.set('source', 'inner_child_test');
         }
+        a.setAttribute('href', url.pathname + url.search + url.hash);
       });
     } catch (e) {}
   }
+
+  function initRelatedTracking() {
+    document.querySelectorAll('.related-card, .seo-links a').forEach(function(link) {
+      if (link.dataset.trackedCta) return;
+      link.dataset.trackedCta = 'true';
+      link.addEventListener('click', function() {
+        if (typeof gtag === 'function') {
+          var text = (link.textContent || '').trim().replace(/\s+/g, ' ').slice(0, 40);
+          gtag('event', 'content_cta_click', {
+            link_id: 'inner_child_' + (link.getAttribute('href') || '').replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 30),
+            link_text: text,
+            target_url: link.href || '',
+            source_page: 'inner_child_test'
+          });
+        }
+      });
+    });
+  }
+
+  window.preserveInnerChildLinks = function() {
+    preserveLanguageLinks();
+    initRelatedTracking();
+  };
 
   class InnerChildApp {
     constructor() {
@@ -111,7 +142,8 @@
     init() {
       this.cacheDOM();
       this.bindEvents();
-            preserveLanguageLinks();
+      preserveLanguageLinks();
+      initRelatedTracking();
       this.hideLoader();
       if (typeof gtag === 'function') {
         gtag('event', 'page_view', { page_title: 'Inner Child Test' });
@@ -276,6 +308,9 @@
       if (typeof gtag === 'function') {
         gtag('event', 'quiz_complete', { event_category: 'inner_child_test', event_label: type });
       }
+
+      preserveLanguageLinks();
+      initRelatedTracking();
     }
 
     drawRadarChart(dimScores, maxDim) {
