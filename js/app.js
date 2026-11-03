@@ -147,7 +147,7 @@
       this.hideLoader();
       if (typeof gtag === 'function') {
         gtag('event', 'page_view', { page_title: 'Inner Child Test' });
-        
+
       }
     }
 
@@ -179,7 +179,7 @@
       });
     }
 
-    
+
 
     show(name) {
       Object.values(this.screens).forEach(s => s.classList.remove('active'));
